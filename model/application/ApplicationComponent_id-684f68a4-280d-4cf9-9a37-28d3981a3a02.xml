@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Training and Audit"
+    id="id-684f68a4-280d-4cf9-9a37-28d3981a3a02"
+    documentation="aka Network Field Support. A classroom and training scheduling system for the branch network, e.g. for POS training.&#xD;&#xA;&#xD;&#xA;254 users. Around 14 people use this system to manage approximately 208 field advisors training schedules."/>

@@ -1,0 +1,5 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accenture Azure Tenant - Back Office Contract"
+    id="f6cb74f4-ad19-442b-88df-b5bbf55cd715"
+    documentation="Azure Back Office primary is in UK South region with DR backup in UK West region."/>

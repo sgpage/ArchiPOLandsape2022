@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: PayZone Smart Prepay Handler"
+    id="id-9ad05b2e-3701-46d3-8263-3be479e18684"
+    documentation="Formats Smart Prepay API requests and passes them to Payzone using their API. Used for Scottish Power.&#xD;&#xA;&#xD;&#xA;Note that this Payzone API is the same Payzone API as used by HNGA (although HNGA accesses this API via the CDP, whereas HIH goes direct to the API)"/>

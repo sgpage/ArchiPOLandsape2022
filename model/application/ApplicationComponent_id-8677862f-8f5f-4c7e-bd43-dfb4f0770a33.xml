@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Enquiry Service [TES]"
+    id="id-8677862f-8f5f-4c7e-bd43-dfb4f0770a33"
+    documentation="Being replaced with Point to Point service Nov 2020-Jan 2021 - being retired&#xD;&#xA;&#xD;&#xA;Supports FSC and Branch manager transaction enquiries particularly around card and banking transactions"/>

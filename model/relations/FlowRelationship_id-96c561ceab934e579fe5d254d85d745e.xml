@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDCS File"
+    id="id-96c561ceab934e579fe5d254d85d745e"
+    documentation="Accounts with Indeminity for loading into APOP.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8cb6f65c-0d4d-4035-aae3-96188302741a.xml#id-8cb6f65c-0d4d-4035-aae3-96188302741a"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8a10fba61866443fa04436819f1e7b2b.xml#id-8a10fba61866443fa04436819f1e7b2b"/>
+</archimate:FlowRelationship>

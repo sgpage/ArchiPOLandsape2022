@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock Services Database"
+    id="aec77dd3-d4e1-4881-bc79-b2e4a922f138"
+    documentation="Various databases used by Stock Services:&#xD;&#xA;&#xD;&#xA;APOP Data&#xD;&#xA;Logistics Planning System&#xD;&#xA;Druid&#xD;&#xA;Stock Item database&#xD;&#xA;File Numbers&#xD;&#xA;Weekly Distribution Builder&#xD;&#xA;Christmas Standards&#xD;&#xA;Mapping&#xD;&#xA;Next Generator 3&#xD;&#xA;Greenfield Generator"/>

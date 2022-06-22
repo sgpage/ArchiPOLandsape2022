@@ -1,0 +1,53 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for EXT: PostCode Anywhere"
+    id="id-aaa19025fd34454baa2a2843ab865e71">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-42ade50b7df04bee9f669352e78b2992"
+      targetConnections="id-aff832d6a5e043dc8b0cb0d7977967fe"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff"
+      type="1">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6f715300-34c6-466c-977b-b13837b9545d.xml#id-6f715300-34c6-466c-977b-b13837b9545d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5bc0102ec50d42f9b2c75e02aadf50ff"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-aff832d6a5e043dc8b0cb0d7977967fe"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-5bc0102ec50d42f9b2c75e02aadf50ff"
+        target="id-42ade50b7df04bee9f669352e78b2992">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-8a42c421-355a-46e2-a7a7-5457b0b0851a.xml#id-8a42c421-355a-46e2-a7a7-5457b0b0851a"/>
+    </sourceConnections>
+    <bounds
+        x="324"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-667dfd12-c986-4901-90b2-bbac4d993783.xml#id-667dfd12-c986-4901-90b2-bbac4d993783"/>
+  </children>
+</archimate:ArchimateDiagramModel>

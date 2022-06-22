@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS370"
+    id="d7ab7373-6af1-44e8-9a1b-eabd3dfe1e08"
+    documentation="Horizon transaction summary and ONCH data to CFS">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-886aa04a-2f73-401c-9a93-a0e3b6111e8f.xml#id-886aa04a-2f73-401c-9a93-a0e3b6111e8f"/>
+</archimate:FlowRelationship>

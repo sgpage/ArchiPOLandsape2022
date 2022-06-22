@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS201"
+    id="id-696d69330d214d8c84b6b4c5fdd2304a"
+    documentation="Camelot transaction data sent to POL MI Systems (Credence). Daily and weekly files.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29b49f0adb3243a0a533d9ed4803d341.xml#id-29b49f0adb3243a0a533d9ed4803d341"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+</archimate:FlowRelationship>

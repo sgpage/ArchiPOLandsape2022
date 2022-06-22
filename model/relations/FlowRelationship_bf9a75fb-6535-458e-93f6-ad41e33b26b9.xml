@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="bf9a75fb-6535-458e-93f6-ad41e33b26b9"
+    documentation="ODBC link used to extract MI data for PoC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6f73fd63-6826-48af-8e95-638e376fdc5c.xml#id-6f73fd63-6826-48af-8e95-638e376fdc5c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8cb1a094-ff05-4006-8abd-510fc65a4c3a.xml#id-8cb1a094-ff05-4006-8abd-510fc65a4c3a"/>
+</archimate:FlowRelationship>

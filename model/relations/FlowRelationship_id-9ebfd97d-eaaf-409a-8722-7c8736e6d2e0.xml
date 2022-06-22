@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF19"
+    id="id-9ebfd97d-eaaf-409a-8722-7c8736e6d2e0"
+    documentation="ADC Requests to CDP for onward forwarding to Web Services such as Moneygram.">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-48ae1f4f-9722-4d16-be05-3843ca844db6.xml#id-48ae1f4f-9722-4d16-be05-3843ca844db6"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_f472aa72-10ec-404b-bf0c-ea2770a6d923.xml#f472aa72-10ec-404b-bf0c-ea2770a6d923"/>
+</archimate:FlowRelationship>

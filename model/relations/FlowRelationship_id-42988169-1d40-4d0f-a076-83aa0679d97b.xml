@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS546"
+    id="id-42988169-1d40-4d0f-a076-83aa0679d97b"
+    documentation="ATM Data to Arrow">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <properties
+      key="Filename"
+      value="ATMYYYYMMDD.csv"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5934679f-56e5-4ecd-b1f2-8ba313945976.xml#id-5934679f-56e5-4ecd-b1f2-8ba313945976"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c37dfffa4e4f45669fe095a693adb0f3.xml#id-c37dfffa4e4f45669fe095a693adb0f3"/>
+</archimate:FlowRelationship>

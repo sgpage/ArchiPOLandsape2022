@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGX Postal Services Data Prep Tool"
+    id="id-5e39e836-acc5-4f95-b216-b5ebb502e23a"
+    documentation="This is a new reference data preparation tool at HNG-X.  The tool receives as input an Excel workbook which defines the HNG-X Postal Services data (about 28 spreadsheets). It converts the data into XML format suitable for import into the HRDP tool (see 2.3.2.1).">
+  <properties
+      key="DocRef"
+      value="ARCAPPARC0001"/>
+</archimate:ApplicationComponent>

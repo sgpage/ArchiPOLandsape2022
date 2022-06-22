@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS018"
+    id="id-5e7c0f36791341428bb23d142044168a"
+    documentation="Bureau Pre Orders extracted from APOP every 15 minutes and sent to FRES.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eba6bf3d-1891-46ec-84f7-cf03e94fb700.xml#eba6bf3d-1891-46ec-84f7-cf03e94fb700"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS003"
+    id="id-71660400cf0343829677cc58fb3a0fa9"
+    documentation="Bureau on demand client file">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eba6bf3d-1891-46ec-84f7-cf03e94fb700.xml#eba6bf3d-1891-46ec-84f7-cf03e94fb700"/>
+</archimate:FlowRelationship>

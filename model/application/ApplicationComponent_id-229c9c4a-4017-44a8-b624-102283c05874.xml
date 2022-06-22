@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGX ADC Preparation Tool"
+    id="id-229c9c4a-4017-44a8-b624-102283c05874"
+    documentation="This is an HNG-X enhanced version of the Horizon ADC data preparation tool.  The tool receives as input a set of Excel workbooks which defines the HNG-X ADC scripts. It converts the data into XML format suitable for import into the HRDP tool"/>

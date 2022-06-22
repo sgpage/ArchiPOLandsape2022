@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="POEX"
+    id="a1b82f5e-e6b6-4e44-b2c4-01e56b57859c"
+    documentation="Post Office Externals. A customer facing helpline handling general enquiries and complaints. Any complaints that are not resolved first time are passed to the second line CCU system.&#xD;&#xA;(Transformed from Remedy to Dynamics 2015)"/>

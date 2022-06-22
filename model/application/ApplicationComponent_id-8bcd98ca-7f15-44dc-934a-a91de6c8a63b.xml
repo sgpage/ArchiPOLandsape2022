@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data Distribution System [RDDS]"
+    id="id-8bcd98ca-7f15-44dc-934a-a91de6c8a63b"
+    documentation="Reference Data Distribution System. Used to distribute reference data from the RDMC database to BRDB and on to HBS and HNG-X terminals."/>

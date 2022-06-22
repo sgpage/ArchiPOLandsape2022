@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS530"
+    id="id-01f8fe99-5c15-47ce-b3f0-702c72483822"
+    documentation="SmartID data to Branch Hub">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fa0e9e09-325f-4c12-a005-47d41361ab83.xml#fa0e9e09-325f-4c12-a005-47d41361ab83"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8cb1a094-ff05-4006-8abd-510fc65a4c3a.xml#id-8cb1a094-ff05-4006-8abd-510fc65a4c3a"/>
+</archimate:FlowRelationship>

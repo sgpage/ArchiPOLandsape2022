@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: Cennox Moni Manager"
+    id="id-59219874-dc8f-49c0-87d0-f21858ba0c99"
+    documentation="Cennox support services for ATM machine.">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

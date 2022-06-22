@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Process Engine"
+    id="c93e41be-3f69-467c-a719-85279f17222a"
+    documentation="The Process Engine provides the facility for the counter to interpret and execute business scripts. The scripts (including APADC)  are defined in a Process Definition Language (PDL). PDL was developed for the HNGx counter by Fujitsu. The more process based use cases have in general been delivered using PDL. &#xD;&#xA;Changes in the Java application are delivered through an application rollout to the live estate. As PDL is an interpreted language it is delivered to the counters via the reference data delivery method. This is faster than an application rollout. &#xD;&#xA;Therefore the presence of a process engine alleviates the need for the full code base to be delivered to a counter to effect certain business changes."/>

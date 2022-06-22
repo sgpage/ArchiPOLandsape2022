@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FAD's for TA Process"
+    id="id-e6ec0e15398c4bfaa9171b91547cd55b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-652206f2761849209687c2ac5f18256f.xml#id-652206f2761849209687c2ac5f18256f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6a86bdcd37934f2a81eb2d63fe506d03.xml#id-6a86bdcd37934f2a81eb2d63fe506d03"/>
+</archimate:FlowRelationship>

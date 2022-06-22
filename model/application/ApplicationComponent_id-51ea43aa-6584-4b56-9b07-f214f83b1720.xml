@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Communications Subsystem"
+    id="id-51ea43aa-6584-4b56-9b07-f214f83b1720"
+    documentation="The communications subsystem encapsulates the capability to access remote services via a network interface. The communications subsystem is the only subsystem with the capability to use network interface hardware.&#xD;&#xA;The capabilities of the subsystem are distributed across a number of Remote Service Interfaces (RSIs), a Remote Service Interfaces Manager (RSIM) and a network interface component.&#xD;&#xA;Remote Service Interfaces provide stubs for remote services, for example services exposed by the Branch DB.&#xD;&#xA;RSIs can be configured with some policy.  The specific policy will be determined at design time and depends to some extent on the type of the remote service.&#xD;&#xA;The set of RSIs required may vary during the lifetime of the counter application.  Therefore, RSIs are created based on a list of specifications provided as reference data."/>

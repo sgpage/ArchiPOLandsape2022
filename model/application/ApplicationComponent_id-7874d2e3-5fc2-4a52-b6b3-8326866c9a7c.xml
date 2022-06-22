@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HBS: Peripheral Handling Service [PHS]"
+    id="id-7874d2e3-5fc2-4a52-b6b3-8326866c9a7c"
+    documentation="Remotely controls in branch peripherals, i.e. PED. Used to update the keys on the PED units and also used to control the PED during some card transactions"/>

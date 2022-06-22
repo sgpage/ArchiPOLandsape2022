@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Local Collect Service [BLCS]"
+    id="d66709b9-dadd-47ef-abf4-a3e42e7170cf"
+    documentation="Branch Lookup and Capacity Service. Local Collect Capacity system. Used to track how many local collect parcels are in a branch and provides an API to Royal Mail to allow its Click and Collect customers to find a branch that has capacity to delivery to.&#xD;&#xA;&#xD;&#xA;Not part of the Horizon back end as such. Hosted in the Fujitsu DMZ.&#xD;&#xA;&#xD;&#xA;Wildly inaccurate and so not much use. Has a &quot;stop&quot; button that a branch manager can use to stop parcels being delivered to the branch in case he has no more space to store them."/>

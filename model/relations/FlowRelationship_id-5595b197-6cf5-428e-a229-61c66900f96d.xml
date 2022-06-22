@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5595b197-6cf5-428e-a229-61c66900f96d"
+    documentation="APS transactions&#xD;&#xA;Historically, TPS passed summarised transaction data to POLSAP (retired in 2019).  This summarisation included APS transactions and TPS therefore needed to reconcile with APS.  Since TPS no longer delivers APS transactions to any internal or external client, then this reconciliation is redundant.  However, the APS/TPS reconciliation still exists and will continue to do so until these legacy systems are replaced.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a2b9c1dd-3940-42ed-a94e-c1cb6a7f284f.xml#a2b9c1dd-3940-42ed-a94e-c1cb6a7f284f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4caec93e-7fb2-43ed-9bd7-8168b4f1c4a3.xml#id-4caec93e-7fb2-43ed-9bd7-8168b4f1c4a3"/>
+</archimate:FlowRelationship>

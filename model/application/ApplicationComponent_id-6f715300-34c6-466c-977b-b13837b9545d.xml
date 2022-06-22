@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: PostCode Anywhere"
+    id="id-6f715300-34c6-466c-977b-b13837b9545d"
+    documentation="Provides bank account validation for ADC transactions."/>

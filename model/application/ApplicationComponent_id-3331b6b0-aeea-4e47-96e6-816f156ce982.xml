@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Access Layer [BAL]"
+    id="id-3331b6b0-aeea-4e47-96e6-816f156ce982"
+    documentation="Branch Access Layer provides message for the routing capability to Branch database and online interfaces.&#xD;&#xA;&#xD;&#xA;Deployed in both Belfast DCs in an active-active configuration, with Branch counters load balanced across the two."/>

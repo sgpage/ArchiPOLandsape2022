@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGX Menu Preparation Tool"
+    id="d0975c94-99bb-44ae-8ab9-2d4e53073518"
+    documentation="This is a new reference data preparation tool at HNG-X.  The tool receives as input an Excel workbook which defines the HNG-X menus. It converts the data in XML format suitable for import into the HRDP tool"/>

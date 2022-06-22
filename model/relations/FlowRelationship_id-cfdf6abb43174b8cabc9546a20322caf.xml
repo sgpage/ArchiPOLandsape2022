@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS386"
+    id="id-cfdf6abb43174b8cabc9546a20322caf"
+    documentation="Replenishment Delivery Content (pouch values)">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0.xml#id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-886aa04a-2f73-401c-9a93-a0e3b6111e8f.xml#id-886aa04a-2f73-401c-9a93-a0e3b6111e8f"/>
+</archimate:FlowRelationship>

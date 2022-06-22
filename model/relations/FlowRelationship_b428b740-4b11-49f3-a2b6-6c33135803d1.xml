@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS450"
+    id="b428b740-4b11-49f3-a2b6-6c33135803d1"
+    documentation="Pouches delivered. AIS 448 is end of day, AIS450 intraday figure.">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71dbcea2084641d8b2bedd2ec586c895.xml#id-71dbcea2084641d8b2bedd2ec586c895"/>
+</archimate:FlowRelationship>

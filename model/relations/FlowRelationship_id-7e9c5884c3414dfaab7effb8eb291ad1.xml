@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS459"
+    id="id-7e9c5884c3414dfaab7effb8eb291ad1"
+    documentation="Sterling Pouch Data. Contains values and barcode of each pouch sent to Horizon">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e90b8ffd6a9945c5a5fcb21de4995956.xml#id-e90b8ffd6a9945c5a5fcb21de4995956"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1086ff3a-15d8-4f65-adb7-fbe11276e51f.xml#id-1086ff3a-15d8-4f65-adb7-fbe11276e51f"/>
+</archimate:FlowRelationship>

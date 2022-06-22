@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SalesForce"
+    id="id-7b1ed96b-4915-47ef-a83a-2af179275685"
+    documentation="Provides CRM solution as a SaaS. Used by POL by Financial services to book mortgage appointments and manage leads."/>

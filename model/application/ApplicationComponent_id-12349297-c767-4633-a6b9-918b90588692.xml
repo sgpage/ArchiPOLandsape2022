@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paris Control System"
+    id="id-12349297-c767-4633-a6b9-918b90588692"
+    documentation="A Siemens PLC (Programmable Logic Control) system used for industrial control. Used by WCS to control the warehouse automation system, Capricorn."/>

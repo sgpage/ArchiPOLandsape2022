@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDP Runtime Container"
+    id="ccdfc35d-e204-4545-8965-727ca982809a"
+    documentation="Provides runtime services to CDP PDCs.&#xD;&#xA;&#xD;&#xA;Every PDC that is deployed in CDP must run within a CDP runtime container. &#xD;&#xA;Client calls to other PDCs are marshalled and sent as JMS messages via the runtime container and RabbitMQ to other PDCs."/>

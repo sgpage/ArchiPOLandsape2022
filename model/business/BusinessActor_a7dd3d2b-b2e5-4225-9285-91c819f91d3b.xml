@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventory Managment Team"
+    id="a7dd3d2b-b2e5-4225-9285-91c819f91d3b"
+    documentation="Contacts Rebecca Portch and Doug Brown">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:BusinessActor>

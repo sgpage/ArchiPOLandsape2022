@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automated Payments System [APS]"
+    id="id-4caec93e-7fb2-43ed-9bd7-8168b4f1c4a3"
+    documentation="Automated Payment System. The APS Host processes transactions made in payment of utility bills, licences council tax, and other Client transactions. Post Office also uses APS transactions for internal services and processes. These transactions can include additional data which is captured at the counter as part of the transaction. The APS host prepares payment files for POL clients and also prepares reports reconciling payments for these clients between the TPS and APS systems.  In addition, it produces a Client Transaction Summary which it sends back to POL via the PODG system."/>

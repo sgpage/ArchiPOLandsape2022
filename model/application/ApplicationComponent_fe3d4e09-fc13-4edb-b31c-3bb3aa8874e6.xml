@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS: Health Lottery"
+    id="fe3d4e09-fc13-4edb-b31c-3bb3aa8874e6"
+    documentation="Handles purchase and claims of health lottery in branch"/>

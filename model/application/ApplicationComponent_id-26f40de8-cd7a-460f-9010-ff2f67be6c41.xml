@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Near Real Time Service [NTR]"
+    id="id-26f40de8-cd7a-460f-9010-ff2f67be6c41"
+    documentation="As opposed to an online agent, NRTA provides a decoupled interaction to a service provider, e.g. for track and trace and Gemalto."/>

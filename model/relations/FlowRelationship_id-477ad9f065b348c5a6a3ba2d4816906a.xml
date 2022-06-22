@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS084 (Replacement Camelot Chqs)"
+    id="id-477ad9f065b348c5a6a3ba2d4816906a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-78a4a773-7b3a-481f-8e1e-894a891c9907.xml#id-78a4a773-7b3a-481f-8e1e-894a891c9907"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+</archimate:FlowRelationship>

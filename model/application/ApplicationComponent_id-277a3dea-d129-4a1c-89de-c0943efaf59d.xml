@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS: POCa Card issue"
+    id="id-277a3dea-d129-4a1c-89de-c0943efaf59d"
+    documentation="Provides the connection between the Horizon POCa Card Issuing Web Services Agent (WSA) and the POca Banking Host service to support the issuing of POCa Cards to cardholders."/>

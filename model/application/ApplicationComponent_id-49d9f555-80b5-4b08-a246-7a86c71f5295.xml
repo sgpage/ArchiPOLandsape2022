@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MyAccount PDC"
+    id="id-49d9f555-80b5-4b08-a246-7a86c71f5295"
+    documentation="This in an application component which provides customer account management as a back-end service residing within the CDP."/>

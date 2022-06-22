@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-00fefc1f-2646-4a15-afc0-09039d86efcc"
+    documentation="GoldenGate Replication. Data is moved within 15 minutes to BRSS.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a5c33872-5d4b-46f8-a832-b0d4877344b3.xml#a5c33872-5d4b-46f8-a832-b0d4877344b3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_b4b5eab7-c71a-4d32-9fbb-c9974e3dd0f1.xml#b4b5eab7-c71a-4d32-9fbb-c9974e3dd0f1"/>
+</archimate:FlowRelationship>

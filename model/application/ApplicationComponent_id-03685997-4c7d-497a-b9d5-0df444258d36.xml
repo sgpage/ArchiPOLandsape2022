@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: British Gas Smart Prepay Handler"
+    id="id-03685997-4c7d-497a-b9d5-0df444258d36"
+    documentation="Formats Smart Prepay API requests for passing to British Gas via the BAL"/>

@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer stills camera"
+    id="bb32b8ba-a20a-4e0f-a26c-0a572cc871f1"
+    documentation="Camera used in the AEI CBES unit to take photograph of the customer. Now end of life and requires to be replaced.&#xD;&#xA;&#xD;&#xA;Camera control is via the USB interface direct to the CBES computer allowing the AEI application to operate the camera via the SDK provided by the manufacturer.  &#xD;&#xA;&#xD;&#xA;Canon EOS 1000D"/>

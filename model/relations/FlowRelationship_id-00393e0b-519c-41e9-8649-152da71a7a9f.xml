@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS447"
+    id="id-00393e0b-519c-41e9-8649-152da71a7a9f"
+    documentation="Sterling Cash on Hand">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <properties
+      key="Filename"
+      value="COHyyyymmddsss.txt"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71dbcea2084641d8b2bedd2ec586c895.xml#id-71dbcea2084641d8b2bedd2ec586c895"/>
+</archimate:FlowRelationship>

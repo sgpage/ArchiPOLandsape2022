@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BlueCoat Network Reverse Proxy [NRP]"
+    id="id-578ac8b7-3f3e-406b-8661-ea2f6d9e87e6"
+    documentation="Network Reverse Proxy used in HNG-A solution to provide an SSL connection between HNG-A application and the Horizon DC"/>

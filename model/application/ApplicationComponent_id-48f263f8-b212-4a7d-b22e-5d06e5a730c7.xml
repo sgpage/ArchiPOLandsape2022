@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HBS: AWS Gateway"
+    id="id-48f263f8-b212-4a7d-b22e-5d06e5a730c7"
+    documentation="Provides a generic pathway to the AWS environment."/>

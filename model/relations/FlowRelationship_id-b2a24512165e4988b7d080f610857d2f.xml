@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS553"
+    id="id-b2a24512165e4988b7d080f610857d2f"
+    documentation="ATM Transaction listing provided by Vocalink">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c37dfffa4e4f45669fe095a693adb0f3.xml#id-c37dfffa4e4f45669fe095a693adb0f3"/>
+</archimate:FlowRelationship>

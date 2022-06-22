@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: Despatch"
+    id="id-756e6863-f490-49b2-aaec-e0513689b75b"
+    documentation="Provides a means to carry operational processes associated with carriers collecting parcels from a branch and despatch reports"/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS410"
+    id="id-98f2ab6b-d8ba-4620-8c91-c8c98e336d63"
+    documentation="Identity look ups to DigiIdentity. Used by AML processes on Horizon via ADC Gateway.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-49d9f555-80b5-4b08-a246-7a86c71f5295.xml#id-49d9f555-80b5-4b08-a246-7a86c71f5295"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bf7d85cf-ea38-483c-8000-6edb5ce4c380.xml#bf7d85cf-ea38-483c-8000-6edb5ce4c380"/>
+</archimate:FlowRelationship>

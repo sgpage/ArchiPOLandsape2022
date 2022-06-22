@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit Command Language [ACL]"
+    id="d03f0620-1c2c-410f-84ec-d83b52c537ca"
+    documentation="Matches stock items and generate two Excel Reports (mainly) about matched and unmatched items. Data is imported from two sources: Credence and Swindon."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: Product"
+    id="a431f17f-c100-477b-8fa6-90157e75e794"
+    documentation="Provide access to product information to internal and external consumers&#xD;&#xA;&#xD;&#xA;Responsible for:&#xD;&#xA;&#x9;mediating access to the product catalogue.&#xD;&#xA;&#x9;providing the list of products and categories&#xD;&#xA;&#x9;product search"/>

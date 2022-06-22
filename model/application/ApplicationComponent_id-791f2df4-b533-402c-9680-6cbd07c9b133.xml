@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: Vocalink"
+    id="id-791f2df4-b533-402c-9680-6cbd07c9b133"
+    documentation="Provides the switching/routing to JPM for POCa ATM card transactions, which can only be carried out through BoI ATMs and other Financial Institutions. &#xD;&#xA;&#xD;&#xA;From August 2021 will provide the host services for Cennox managed ATM's&#xD;&#xA;&#xD;&#xA;From end 2020 all banking will go via VocaLink as part of the P2PE initiative"/>

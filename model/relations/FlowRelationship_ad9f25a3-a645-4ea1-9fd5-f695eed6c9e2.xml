@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS073"
+    id="ad9f25a3-a645-4ea1-9fd5-f695eed6c9e2"
+    documentation="Channel Integration Interface to the RTS service on HBS. Provides ARTS based POS trading over SOAP.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a2fa9900-822e-424b-b4a5-0a93778a9724.xml#a2fa9900-822e-424b-b4a5-0a93778a9724"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0fef8c5b-72d3-4d1a-8b23-c055dbee774c.xml#id-0fef8c5b-72d3-4d1a-8b23-c055dbee774c"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Time Service"
+    id="a3faeb85-52f8-43a3-a5ab-c91fbbebf1e2"
+    documentation="Network Time Protocol (NTP) service hosted in Fujitsu's datacentre to provide the same time source to all branch and Horizon back end hosts so that all events are time synced."/>

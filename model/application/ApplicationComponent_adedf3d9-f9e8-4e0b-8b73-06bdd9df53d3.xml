@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BBR System"
+    id="adedf3d9-f9e8-4e0b-8b73-06bdd9df53d3"
+    documentation="Local Access Database - (not supported) for Santander clients only.  This database holds information about the local Post Office that a customer should use for their business banking."/>

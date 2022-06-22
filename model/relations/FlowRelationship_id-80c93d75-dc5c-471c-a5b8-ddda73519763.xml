@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS372"
+    id="id-80c93d75-dc5c-471c-a5b8-ddda73519763">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a0e489e5-51c0-4374-8e79-d2653a6793fc.xml#a0e489e5-51c0-4374-8e79-d2653a6793fc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-42bdf98e-0954-428f-9a4a-2acc53d385ca.xml#id-42bdf98e-0954-428f-9a4a-2acc53d385ca"/>
+</archimate:FlowRelationship>

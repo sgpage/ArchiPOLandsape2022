@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Moneygram PDC"
+    id="e320df8d-9fda-4bcc-bd14-436c1f97281a"
+    documentation="Processes MoneyGram Money transfer requests/services and allows POL to offer Bank deposits, Delayed Sends and MoneyGram PlusCard for the customers."/>

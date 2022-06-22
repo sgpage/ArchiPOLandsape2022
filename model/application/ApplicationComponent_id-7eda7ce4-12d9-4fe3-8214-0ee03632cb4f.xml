@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TransTrack MI Reporting"
+    id="id-7eda7ce4-12d9-4fe3-8214-0ee03632cb4f"
+    documentation="Produces the Management Information for POL and our External Customers.&#xD;&#xA;It produces the Quality of Service figures from Transtrack reports created from each depot and sent via Lotus Notes to clssales.co.uk."/>

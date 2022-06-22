@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: DigiIdentity [Idp]"
+    id="bf7d85cf-ea38-483c-8000-6edb5ce4c380"
+    documentation="Identity assurance solution used to provide a certified level of assurance of a user's identity. A Government digital service Identity Provider (IdP) for access to government services, of which Post Office is one (i.e. branded DigIdentity service). &#xD;&#xA;&#xD;&#xA;Used by CDP for My Account logons and to master user accounts."/>

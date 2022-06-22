@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: Receipt"
+    id="id-3359e230-8c04-4c1b-928a-4a2d4bdab001"
+    documentation="Generate product specific receipts"/>

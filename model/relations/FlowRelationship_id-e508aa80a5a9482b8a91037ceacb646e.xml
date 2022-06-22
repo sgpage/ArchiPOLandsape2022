@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS551"
+    id="id-e508aa80a5a9482b8a91037ceacb646e"
+    documentation="Sales lead data to Salesforce">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dbde2264bfe140cc8f9a611e3c13f393.xml#id-dbde2264bfe140cc8f9a611e3c13f393"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7b1ed96b-4915-47ef-a83a-2af179275685.xml#id-7b1ed96b-4915-47ef-a83a-2af179275685"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appserver Fileshare AZUKSDAEAPP01"
+    id="id-ce9f12cbd0234ae5a0f0b272b722d38e">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationService>

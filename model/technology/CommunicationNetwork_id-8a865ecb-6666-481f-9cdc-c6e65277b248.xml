@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico Modem Racks"
+    id="id-8a865ecb-6666-481f-9cdc-c6e65277b248"
+    documentation="Dual rack at London and Slough&#xD;&#xA;PRI-30's accommodating 2xITR and 1x GEMS dial in with each having an 0800 overlay"/>

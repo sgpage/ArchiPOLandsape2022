@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eracent"
+    id="a7c26c39-af95-4956-9d3b-ddacabd396ce"
+    documentation="Used for Asset management (hardware and OS) on both EUC Admin and branch devices"/>

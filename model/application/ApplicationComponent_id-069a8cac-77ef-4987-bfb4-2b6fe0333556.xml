@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: Item"
+    id="id-069a8cac-77ef-4987-bfb4-2b6fe0333556"
+    documentation="Creation of basket entries according to data-driven product journey, abstracting business knowledge away from the consumer&#xD;&#xA;&#xD;&#xA;Responsible for:&#xD;&#xA;&#x9;generating a new basket item, ready to be included in the Basket microservice&#xD;&#xA;&#x9;handling the generation of Form definitions to be passed to the API client&#xD;&#xA;&#x9;handling validation of FormData objects passed by the API client&#xD;&#xA;&#x9;controlling the navigation through pages required for product journey&#xD;&#xA;&#xD;&#xA;The Item microservice relies on the Basket microservice to add the generated basket item to a basket."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order PDC"
+    id="id-46b699ad-d154-422e-aa25-b4a3f268d5ec"
+    documentation="Orchestrate inbound requests  of basket detail requests from AP-ADC gateway to appropriate services and send the outbound request back to AP-ADC gateway."/>

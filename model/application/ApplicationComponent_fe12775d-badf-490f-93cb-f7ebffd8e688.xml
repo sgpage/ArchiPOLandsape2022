@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STAR (Teleall)"
+    id="fe12775d-badf-490f-93cb-f7ebffd8e688"
+    documentation="This system manages the split billing to Sub Post masters and POL for telephone calls.&#xD;&#xA;&#xD;&#xA;27 users&#xD;&#xA;&#xD;&#xA;It comprises an MS Access database containing audit information of Sub Postmaster's telephone calls since 2000."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key PDC"
+    id="e865a359-afac-46e3-8cdf-5884aac1320d"
+    documentation="Low level message encryption PDC."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postal Address File [PAF]"
+    id="id-6df107ed-9ce1-4305-bdd5-a58377ed8037"
+    documentation="Postal Address File.  This is the external service used to verify banking sort codes and account numbers for direct debit and manual banking transactions. PAF is the address lookup service, which is an Oracle based store of the RM PAF data with a wrapper to allow ADC to use it."/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AEI reconciliation"
+    id="db4d9020-5ed3-4cfc-8aeb-21979aa90980">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-351bfed7-f1d7-4949-a0d0-21a498b5eabd.xml#id-351bfed7-f1d7-4949-a0d0-21a498b5eabd"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDP Branch finder"
+    id="c5ffd0ea-64ef-4893-aaf6-697fe45febfc"
+    documentation="POL Branch Finder tool in CDP. Developed as an add on to Magnolia (and not a PDC)."/>

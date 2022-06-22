@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Persistent Store [NPS]"
+    id="edad3f91-a6e9-4d46-97b8-f37290544965"
+    documentation="Journal repository that holds state between calls to allow proper error recovery and ensure that the correct state is forwarded on to the service provider. For example, transaction cancellation messages can be stored whilst they are awaiting a successful attempt to deliver to the banking and e-topup clients&#xD;&#xA;&#xD;&#xA;A resilient 2-node Oracle Real Application Cluster &#xD;&#xA;&#xD;&#xA;At end 2020 will no longer be used by banking"/>

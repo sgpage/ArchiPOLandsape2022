@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Peripherals Subsystem"
+    id="b0b3789a-93cf-437d-acec-916eaf755750"
+    documentation="The Peripheral Subsystem provides the capability to interact with the counter peripherals programmatically.&#xD;&#xA;The subsystem also ensures that any configuration policies regarding the management of the peripherals are enforced.&#xD;&#xA;The subsystem is decomposed into the following capabilities:&#xD;&#xA;•&#x9;One Peripheral Manager&#xD;&#xA;•&#x9;For each peripheral, a Peripheral Operation Unit. This mediates all interactions between the peripheral and its consumers.&#xD;&#xA;Peripheral Operational Unit capabilities may be configured using reference data.&#xD;&#xA;For further information, refer to the HNG-X Counter Applications: Peripheral Subsystem High Level Design (DES/APP/HLD/0038)."/>

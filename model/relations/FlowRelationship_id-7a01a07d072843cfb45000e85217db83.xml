@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SDCS File"
+    id="id-7a01a07d072843cfb45000e85217db83"
+    documentation="Indemnity data file for the SDCS service">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8a10fba61866443fa04436819f1e7b2b.xml#id-8a10fba61866443fa04436819f1e7b2b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+</archimate:FlowRelationship>

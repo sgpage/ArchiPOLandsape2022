@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HPBB Client Files"
+    id="id-827f8862bc494303883a1219b7e5071c"
+    documentation="Client file from the sales transaction plus bill payment.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d1a1b173-97e4-47bb-8747-3707518d8912.xml#d1a1b173-97e4-47bb-8747-3707518d8912"/>
+</archimate:FlowRelationship>

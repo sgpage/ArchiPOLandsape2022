@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postcode Anywhere [BKAC]"
+    id="id-667dfd12-c986-4901-90b2-bbac4d993783"
+    documentation="Bank Account Checker Service (BKAC)implements the Horizon Telecoms Webservice and Kahala interfaces."/>

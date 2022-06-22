@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cash Management CC"
+    id="id-022c8b8a-ea41-4446-a3ff-dd80477f7d04"
+    documentation="Dynamics365 - Cash Management Call Centre application. Provides call logging for increases, decreases or cancellations in the cash deliveries to post offices&#xD;&#xA;(Transformed from Access to Dynamics 2015)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Business Logic Subsystem"
+    id="id-6c273790-b355-46b1-b24f-4321ca61268c"
+    documentation="The Business Logic Subsystem encapsulates the control capabilities of the application.&#xD;&#xA;A Business Logic Object represents the capability to manage some process or business transaction.  For example a top-level Business Logic Object may manage the initial configuration of the application.  A lower-level Business Logic Object may manage all activities associated with the sale of a particular product, from the creation of the requisite User Interaction Agents to the invocation of Business Services to interact with the data centre.&#xD;&#xA;The capabilities represented by Business Logic Objects may be implemented to some extent by the capabilities of the Process Engine Subsystem.&#xD;&#xA;The capability to create Business Logic Objects is represented by a single Business Logic Manager."/>

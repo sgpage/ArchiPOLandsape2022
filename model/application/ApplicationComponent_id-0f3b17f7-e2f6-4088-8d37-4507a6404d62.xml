@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DnG PDC"
+    id="id-0f3b17f7-e2f6-4088-8d37-4507a6404d62"
+    documentation="This in an application component which provides Drop and Go account management functions as a backend service residing within the CDP. This D&amp;G account management functionality includes creation of new account, new card assignment, account closure, D&amp;G payment transaction as well as maintains Drop and Go balance."/>

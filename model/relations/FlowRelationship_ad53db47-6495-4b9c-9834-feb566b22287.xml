@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Txn Auths"
+    id="ad53db47-6495-4b9c-9834-feb566b22287"
+    documentation="Propriatary interface between ATM and Vocalink.">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:Device"
+      href="Device_e1184f00-fbf5-4869-b4ed-3b19ba9d4e39.xml#e1184f00-fbf5-4869-b4ed-3b19ba9d4e39"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-791f2df4-b533-402c-9680-6cbd07c9b133.xml#id-791f2df4-b533-402c-9680-6cbd07c9b133"/>
+</archimate:FlowRelationship>

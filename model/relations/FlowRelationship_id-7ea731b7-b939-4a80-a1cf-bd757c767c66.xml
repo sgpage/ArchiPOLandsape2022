@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS096"
+    id="id-7ea731b7-b939-4a80-a1cf-bd757c767c66"
+    documentation="Paystation smart metering topups to NIE and Airtricity">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_acde9189-4642-4c6d-85ac-3458d9d2e170.xml#acde9189-4642-4c6d-85ac-3458d9d2e170"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c83dbd4b-1ff9-4e83-8c68-f46258006707.xml#c83dbd4b-1ff9-4e83-8c68-f46258006707"/>
+</archimate:FlowRelationship>

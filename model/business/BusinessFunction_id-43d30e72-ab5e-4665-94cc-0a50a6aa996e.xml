@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Management SR"
+    id="id-43d30e72-ab5e-4665-94cc-0a50a6aa996e"
+    documentation="Client management does blah">
+  <properties
+      key="Contact"
+      value="Mabel Sugworth"/>
+  <properties
+      key="FTE_Count"
+      value="1.5"/>
+</archimate:BusinessFunction>

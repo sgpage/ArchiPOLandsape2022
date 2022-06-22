@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Finance System [CFS]"
+    id="id-42bdf98e-0954-428f-9a4a-2acc53d385ca"
+    documentation="Core Finance System. SAP ERP system (SAP ECC 6.0 EHP6) hosted by and managed by CGI&#xD;&#xA;Stood up as part of the separation from RMG.">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

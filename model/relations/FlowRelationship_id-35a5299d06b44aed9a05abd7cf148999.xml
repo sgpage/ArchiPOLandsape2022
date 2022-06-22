@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS547.1 (two files) &amp; AIS547.3"
+    id="id-35a5299d06b44aed9a05abd7cf148999"
+    documentation="Dispense data received from Vocalink by the ATM Service (for CFS)">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5934679f-56e5-4ecd-b1f2-8ba313945976.xml#id-5934679f-56e5-4ecd-b1f2-8ba313945976"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-886aa04a-2f73-401c-9a93-a0e3b6111e8f.xml#id-886aa04a-2f73-401c-9a93-a0e3b6111e8f"/>
+</archimate:FlowRelationship>

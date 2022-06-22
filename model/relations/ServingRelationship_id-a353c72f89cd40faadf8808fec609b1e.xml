@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage APOP Records"
+    id="id-a353c72f89cd40faadf8808fec609b1e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f98cc7d7-3083-4bf6-a49c-ad35cae49ec9.xml#f98cc7d7-3083-4bf6-a49c-ad35cae49ec9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_d33ae18c-5374-47c3-93bb-7db2346d8458.xml#d33ae18c-5374-47c3-93bb-7db2346d8458"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APOP Reports"
+    id="id-84901b3bbfc64a2496b3c88e722516ff"
+    documentation="See HLD066 APOP Support DB HLD v0.1e for info on this flow and how it is used.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8a10fba61866443fa04436819f1e7b2b.xml#id-8a10fba61866443fa04436819f1e7b2b"/>
+</archimate:FlowRelationship>

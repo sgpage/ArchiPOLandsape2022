@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Insight SQL Server DB"
+    id="id-6f73fd63-6826-48af-8e95-638e376fdc5c"
+    documentation="Single instance SQL Server hosted on POL Azure.">
+  <properties
+      key="Contact"
+      value="Alex Todd"/>
+</archimate:ApplicationComponent>

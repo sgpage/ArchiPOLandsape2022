@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS018"
+    id="dc28a791-b344-4923-aa7e-a1f47d989e11"
+    documentation="Bureau Pre Orders from counter and Collection updates.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f43af162-b177-41d0-8218-2b4ce4712a46.xml#f43af162-b177-41d0-8218-2b4ce4712a46"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eba6bf3d-1891-46ec-84f7-cf03e94fb700.xml#eba6bf3d-1891-46ec-84f7-cf03e94fb700"/>
+</archimate:FlowRelationship>

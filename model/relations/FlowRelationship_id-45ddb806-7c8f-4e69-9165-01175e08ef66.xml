@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIA online fulfillment"
+    id="id-45ddb806-7c8f-4e69-9165-01175e08ef66"
+    documentation="Online fetch and post. Provides reference number and what the customer shoudl be preseting. Thne post back biometrics">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-61c0fc82-bc87-451e-8a33-0a588502d95f.xml#id-61c0fc82-bc87-451e-8a33-0a588502d95f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a1cc5f6c-0d26-410b-8a44-0e39b62386ed.xml#a1cc5f6c-0d26-410b-8a44-0e39b62386ed"/>
+</archimate:FlowRelationship>

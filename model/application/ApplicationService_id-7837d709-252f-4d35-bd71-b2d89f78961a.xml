@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horizon Back End"
+    id="id-7837d709-252f-4d35-bd71-b2d89f78961a"
+    documentation="The centralised part of Horizon, which all branch terminals connect to perform transactions"/>

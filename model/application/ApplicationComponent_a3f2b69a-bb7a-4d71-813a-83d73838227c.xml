@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cashman"
+    id="a3f2b69a-bb7a-4d71-813a-83d73838227c"
+    documentation="Management of cash orders for ~100 Post Office ATM’s and tracking of notes sent to and from ATMs&#xD;&#xA;Used to manage the inventory of cash and cassettes at ATMs&#xD;&#xA;Records cash machine data transactions. Transactions are recorded manually by each user in his/her own respective copy.&#xD;&#xA;&#xD;&#xA;Total Users: 20, 10 concurrent&#xD;&#xA;(Transformed from Access to Dynamics 2015)"/>

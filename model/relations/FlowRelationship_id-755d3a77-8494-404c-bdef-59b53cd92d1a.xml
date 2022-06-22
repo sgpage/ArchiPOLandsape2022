@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PZ Client Settlement"
+    id="id-755d3a77-8494-404c-bdef-59b53cd92d1a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6d59b8db-dd06-4f12-b7ce-53f85558c431.xml#id-6d59b8db-dd06-4f12-b7ce-53f85558c431"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fdc30cd2-73d5-4f3c-a0cd-1b2505cf040f.xml#fdc30cd2-73d5-4f3c-a0cd-1b2505cf040f"/>
+</archimate:FlowRelationship>

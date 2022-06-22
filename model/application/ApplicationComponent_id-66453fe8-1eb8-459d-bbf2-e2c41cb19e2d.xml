@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Barcode All Parcels (BAP) Agent"
+    id="id-66453fe8-1eb8-459d-bbf2-e2c41cb19e2d"
+    documentation="Sends pre-advice to Royal mail for Barcoding all parcels (2D Barcode) and for International data capture (S10 UPU 1D Barcode)"/>

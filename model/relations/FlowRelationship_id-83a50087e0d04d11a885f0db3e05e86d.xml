@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS370"
+    id="id-83a50087e0d04d11a885f0db3e05e86d"
+    documentation="Summarised transactions to CFS">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71dbcea2084641d8b2bedd2ec586c895.xml#id-71dbcea2084641d8b2bedd2ec586c895"/>
+</archimate:FlowRelationship>

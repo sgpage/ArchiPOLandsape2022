@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post Office Data Gateway [PODG]"
+    id="id-455115cf-72e2-4dec-b4ca-fd9338be905f"
+    documentation="Provides scheduled and regular data transfer and transformation between internal system and external services / agencies.&#xD;&#xA;&#xD;&#xA;Camel is used for route creation and file manipulation and runs on the internal server only&#xD;&#xA;JScape is used for external connectivity and runs on the external server only&#xD;&#xA;Rsync is used to synchronise the filesystem between the internal and external servers&#xD;&#xA;&#xD;&#xA;Runs on Java 6 JVM&#xD;&#xA;&#xD;&#xA;Post Office Data Gateway (PODG) Technical Documents">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

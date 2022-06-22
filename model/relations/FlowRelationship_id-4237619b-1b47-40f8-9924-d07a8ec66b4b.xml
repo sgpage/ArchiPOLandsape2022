@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS093"
+    id="id-4237619b-1b47-40f8-9924-d07a8ec66b4b"
+    documentation="Horizon Transactions for Credence">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a0e489e5-51c0-4374-8e79-d2653a6793fc.xml#a0e489e5-51c0-4374-8e79-d2653a6793fc"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS234"
+    id="id-6e25189c39fc4ab1a70abe61e3eec11c"
+    documentation="Referals and other marketing data sent to BRANDS.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c9cb5099-b64d-47dd-a89a-745408addb9a.xml#c9cb5099-b64d-47dd-a89a-745408addb9a"/>
+</archimate:FlowRelationship>

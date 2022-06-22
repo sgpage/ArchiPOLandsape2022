@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Santander Indemnity DB"
+    id="id-7b72f594-67ff-4488-8fb3-813324c6c5b3"
+    documentation="Spreadsheet that keeps a list of sortcode and account numbers for accounts that are allowed to deposit cash at PO's. There is a column that generates the XML required to upload to APOP. This uppload goes via a shared folder on Azure where the DB is stored.">
+  <properties
+      key="Contact"
+      value="James Brett"/>
+</archimate:ApplicationComponent>

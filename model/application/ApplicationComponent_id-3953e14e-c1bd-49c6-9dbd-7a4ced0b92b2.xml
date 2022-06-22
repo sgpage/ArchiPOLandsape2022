@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkessa Connect"
+    id="id-3953e14e-c1bd-49c6-9dbd-7a4ced0b92b2"
+    documentation="Arkessa Connect provides a multi-network SIM that allows a device to connect to any of the major GSM, GPRS, 3G and 4G mobile networks.&#xD;&#xA;&#xD;&#xA;Arkessa Connect is configured as a non-steered roaming SIM. Roaming means that the device is free to connect to any available network and hence is not constrained by the availability or performance of any single network. Non-Steered means that the connection is chosen based on signal quality and not determined by the commercial considerations of the MNO"/>

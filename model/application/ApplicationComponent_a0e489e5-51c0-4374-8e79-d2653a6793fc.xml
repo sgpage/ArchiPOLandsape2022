@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credence"
+    id="a0e489e5-51c0-4374-8e79-d2653a6793fc"
+    documentation="Credence is the POL MI warehouse used to report on basket entry level transactions. Also used operationally to support agent remuneration&#xD;&#xA;&#xD;&#xA;Kalido DIW at the heart but includes IBM Datastage as the ETL and SAP Business Objects for reporting.  &#xD;&#xA;Hosting - Accenture&#xD;&#xA;Application Support - CGI&#xD;&#xA;&#xD;&#xA;Credence Technical Documents"/>

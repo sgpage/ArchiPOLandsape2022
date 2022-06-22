@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Post mandate"
+    id="c70807b9-45b7-44e0-aee3-6affd5f50d6d"
+    documentation="Cheque Withddrawal Mandate posted to branch which when scanned loads into APOP, and is then used to control encashements.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_acf46b46-8f72-4c5c-b1f6-ef988d7d0b42.xml#acf46b46-8f72-4c5c-b1f6-ef988d7d0b42"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-432cd7c7-84a9-43bc-8ae6-4a19956bec27.xml#id-432cd7c7-84a9-43bc-8ae6-4a19956bec27"/>
+</archimate:FlowRelationship>

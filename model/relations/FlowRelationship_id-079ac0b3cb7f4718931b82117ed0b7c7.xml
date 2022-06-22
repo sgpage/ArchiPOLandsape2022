@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS188"
+    id="id-079ac0b3cb7f4718931b82117ed0b7c7"
+    documentation="FRES to CWC Spot Rate file. Copy of counter file used to value vault currency on daily basis.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0.xml#id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="d4cf56e2-90ce-4085-b944-56c2e663beae"
+    documentation="Will be removed when TPS is depracated as part of Oracle rationaisation">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a2b9c1dd-3940-42ed-a94e-c1cb6a7f284f.xml#a2b9c1dd-3940-42ed-a94e-c1cb6a7f284f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3deba71b-5cf1-4c04-94ae-e569b7796568.xml#id-3deba71b-5cf1-4c04-94ae-e569b7796568"/>
+</archimate:FlowRelationship>

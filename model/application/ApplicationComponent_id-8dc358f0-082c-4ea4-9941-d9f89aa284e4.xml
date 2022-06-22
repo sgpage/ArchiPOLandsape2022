@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FRE PDC"
+    id="id-8dc358f0-082c-4ea4-9941-d9f89aa284e4"
+    documentation="This service will take inbound feeds from Global Payments and Horizon and those with information held on the platform. It will then produce a report indicating which transactions requite manual intervention in order to meet financial requirements reconcile."/>

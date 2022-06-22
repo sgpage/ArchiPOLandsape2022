@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HIH: Token Database"
+    id="id-282ce09c-d21e-46dc-a8ad-be8895943ce8"
+    documentation="CosmosDB Stores information about Post Office Tokens"/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Card Orders"
+    id="id-13034b89-d7af-4494-b454-1c0d16ce6f7b"
+    documentation="Card orders">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1180c1e4-7452-4d02-a39a-716780fc1daf.xml#id-1180c1e4-7452-4d02-a39a-716780fc1daf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a439435d-ea35-4d28-a9f3-08c3a8c51c29.xml#a439435d-ea35-4d28-a9f3-08c3a8c51c29"/>
+</archimate:FlowRelationship>

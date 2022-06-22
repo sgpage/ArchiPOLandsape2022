@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Scales"
+    id="id-247e1162-af16-4f44-a525-108990a7ed26"
+    documentation="RS232 connected Avery Berkel devices which underwent National Weights and Measures approval; they can be shared between two terminals; a terminal ‘claims’ the device for the duration of its use and this is shown by a ‘left’ and ‘right’ indicator on the scales themselves. All Post Office owned branches have these and many sub-postmasters have purchased scales to reduce transaction times"/>

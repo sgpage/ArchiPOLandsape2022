@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS: UK Online"
+    id="a138346e-68d9-4ade-a8f9-5c967c7145e5"
+    documentation="Simple lookup of nearest UK Online centre locations using location of the branch performing the query"/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF24 (Txns)"
+    id="id-0ed44462-03db-492d-8e6e-a4a097df1115">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-80ce7130-cf27-4047-8dc1-a13ae98a23cf.xml#id-80ce7130-cf27-4047-8dc1-a13ae98a23cf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f264c52e-141c-44e5-b7e5-f646270c00d0.xml#f264c52e-141c-44e5-b7e5-f646270c00d0"/>
+</archimate:FlowRelationship>

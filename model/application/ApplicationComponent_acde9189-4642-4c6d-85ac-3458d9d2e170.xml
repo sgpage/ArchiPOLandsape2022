@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico Transaction Router [ITR]"
+    id="acde9189-4642-4c6d-85ac-3458d9d2e170"
+    documentation="All paystation devices dial up the ITR at least once a day to send its completed transactions to it. It is also used for online transactions, such as pre-pay."/>

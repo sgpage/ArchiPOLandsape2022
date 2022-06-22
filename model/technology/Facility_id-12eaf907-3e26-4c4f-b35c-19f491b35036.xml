@@ -1,0 +1,5 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamics 365 SaaS"
+    id="id-12eaf907-3e26-4c4f-b35c-19f491b35036"
+    documentation="MS Dynamics 365 instance that supports POLs Customer Contact centre to support NBSC, POEX and CCU.&#xD;&#xA;&#xD;&#xA;NBSC: National Business Support Centre. Supporting Postmasters and POL Product support and client teams&#xD;&#xA;POEX: PO EXternal Helpline. Customer helpline dealing with 1st line complaints. 50% of calls are transferred to other POL contact centres that are product specific (Travel insurance card account etc. RMG products)&#xD;&#xA;CCU: Customer Care Unit. Deals with Customer complaints, re-in branch service, product issues, etc."/>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Banking Support"
+    id="c9e9efbe-1328-4111-b433-9894d5adc6d6"
+    documentation="Gives support to Partner banks with regards to Business Change Giving, Cash Deposits and Cash Withdrawals.  Also deals with Business Cheque Encashments.">
+  <properties
+      key="Contact"
+      value="Shelley McGregor"/>
+</archimate:BusinessFunction>

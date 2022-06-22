@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AP Case Management"
+    id="id-764f0c9c-97a4-4dc5-8b46-e15de8dabce7"
+    documentation="Automated payment inquiry. Management of queries related to the ‘automated payment product’ which result in the engagement of the transaction correction process and refund calculation for under or over payments&#xD;&#xA;(Transformed from Access to Sequel 2015). Built on MS Dynamics?&#xD;&#xA;&#xD;&#xA;20 users.&#xD;&#xA;&#xD;&#xA;Every single enquiry is recorded in this database since 2009 till date.&#xD;&#xA;Generates unique reference number.&#xD;&#xA;Data can be searched by FADCode.&#xD;&#xA;Used daily.&#xD;&#xA;Multiple people are using this database."/>

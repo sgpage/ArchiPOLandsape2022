@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smart Metering PDC"
+    id="c941631a-1852-4648-96f8-50d83b7b1496"
+    documentation="Provides the interface between Post Office Ltd, Common Data Platform (CDP) and Paypoint, which in turn is linked to the Unique Transaction Reference Number (UTRN) generation companies."/>

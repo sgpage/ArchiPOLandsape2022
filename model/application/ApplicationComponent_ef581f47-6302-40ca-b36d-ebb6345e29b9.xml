@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="British Gas Smart Meter Agent"
+    id="ef581f47-6302-40ca-b36d-ebb6345e29b9"
+    documentation="Provides paystation and Horizon access to BG Smart Metering service"/>

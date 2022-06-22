@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HORiCe"
+    id="e9e94e13-6d0c-479d-8c8e-760ee5d8e45c"
+    documentation="Uses BRSS (copy of BRDB) to support enquiries for support personnel. Database is 15 mins behind BRDB.&#xD;&#xA;Access has been provided to Horice to many POL staff (Fraud/Help desks etc.) to support queries / investigations&#xD;&#xA;&#xD;&#xA;Available on the Internet here:&#xD;&#xA;&#xD;&#xA;https://horice.horizonng.com/HORIce/logon.jsp"/>

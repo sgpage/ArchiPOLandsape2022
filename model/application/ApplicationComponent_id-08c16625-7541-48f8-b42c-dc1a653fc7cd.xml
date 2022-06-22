@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generic Web Services [GWS]"
+    id="id-08c16625-7541-48f8-b42c-dc1a653fc7cd"
+    documentation="Web service clients Provides a simple pattern / templating based engine to allow simple and quick integrations with external (service providers) SOAP web services."/>

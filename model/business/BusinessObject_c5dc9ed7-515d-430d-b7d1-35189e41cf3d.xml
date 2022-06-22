@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance Management Information [FMI]"
+    id="c5dc9ed7-515d-430d-b7d1-35189e41cf3d"
+    documentation="Finance Management Information (part of CFS), consisting of SAP BW 7.40 and SAP Business Objects BI platform 4.0."/>

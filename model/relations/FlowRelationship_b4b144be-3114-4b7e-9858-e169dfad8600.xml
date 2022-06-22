@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS111 (Mails)"
+    id="b4b144be-3114-4b7e-9858-e169dfad8600"
+    documentation="Mails collection data to Horizon">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_acde9189-4642-4c6d-85ac-3458d9d2e170.xml#acde9189-4642-4c6d-85ac-3458d9d2e170"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+</archimate:FlowRelationship>

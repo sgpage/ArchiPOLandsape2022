@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS375"
+    id="db14f13d-f48f-466e-a9c7-b28ca295a261"
+    documentation="Employee data sync">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-062f3e89-b095-4421-9bca-392f1488085d.xml#id-062f3e89-b095-4421-9bca-392f1488085d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fa0e9e09-325f-4c12-a005-47d41361ab83.xml#fa0e9e09-325f-4c12-a005-47d41361ab83"/>
+</archimate:FlowRelationship>

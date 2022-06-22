@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS530"
+    id="id-93ad00e6-e42c-4720-ab70-a2e9ba8a0ce7"
+    documentation="Uses a SNow plugin to sync ForgeRock user data to ServiceNow.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fa0e9e09-325f-4c12-a005-47d41361ab83.xml#fa0e9e09-325f-4c12-a005-47d41361ab83"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9f586ee8-e638-45b2-813c-dd25c3a95248.xml#id-9f586ee8-e638-45b2-813c-dd25c3a95248"/>
+</archimate:FlowRelationship>

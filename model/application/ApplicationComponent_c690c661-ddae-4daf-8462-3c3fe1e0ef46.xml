@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Selection File"
+    id="c690c661-ddae-4daf-8462-3c3fe1e0ef46"
+    documentation="Creates new reference numbers (just adds 1 to the previous number) for the locations exercise in the location excercise (new banks) file.  4 sheets on this file."/>

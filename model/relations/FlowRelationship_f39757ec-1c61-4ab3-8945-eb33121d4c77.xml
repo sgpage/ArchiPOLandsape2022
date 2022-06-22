@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS107/108"
+    id="f39757ec-1c61-4ab3-8945-eb33121d4c77"
+    documentation="ISO8583 Smart Meter top up requests.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b00fddd-550c-4653-a29a-6548571aa91b.xml#id-2b00fddd-550c-4653-a29a-6548571aa91b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d095e2f8-2f24-4fcf-b88c-c90502f89c34.xml#d095e2f8-2f24-4fcf-b88c-c90502f89c34"/>
+</archimate:FlowRelationship>

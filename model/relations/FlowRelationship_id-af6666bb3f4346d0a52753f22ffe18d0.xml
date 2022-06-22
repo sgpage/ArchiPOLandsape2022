@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS450/451/459/477"
+    id="id-af6666bb3f4346d0a52753f22ffe18d0"
+    documentation="AIS450 - Horizon to Arrow Intraday Pouches Delivered (Intraday)&#xD;&#xA;AIS451 - Horizon to Arrow Intraday Pouches Collected.&#xD;&#xA;AIS459 CWC to Arrow Sterling Pouches. Carries the details of each pouch including value.&#xD;&#xA;AIS477 - Update File Accenture Azure Staging Area to POL Asure Staging Area">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <properties
+      key="Filename"
+      value="COHyyyymmddsss.txt (plus others!)"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e90b8ffd6a9945c5a5fcb21de4995956.xml#id-e90b8ffd6a9945c5a5fcb21de4995956"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1086ff3a-15d8-4f65-adb7-fbe11276e51f.xml#id-1086ff3a-15d8-4f65-adb7-fbe11276e51f"/>
+</archimate:FlowRelationship>

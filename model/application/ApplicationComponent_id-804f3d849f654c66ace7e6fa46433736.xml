@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hyosung Application"
+    id="id-804f3d849f654c66ace7e6fa46433736"
+    documentation="Core application on the VocaLink ATM customised to Cennox/POL requirements. Provides customer facing UI, and Postmaster admin screens.">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS066"
+    id="b94322f3-4f70-44be-b63f-dbfa70e50903"
+    documentation="Online calls to externals via CDP. Data is passed in a &lt;payload> tag that is not validated by Fujitsu. CDP then routes payload to respective 3rd party.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-17135ef8-f7d7-42ee-9a10-5a092246c41f.xml#id-17135ef8-f7d7-42ee-9a10-5a092246c41f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-76f1a556-6f83-446c-9d0f-3de2b8c1d2b2.xml#id-76f1a556-6f83-446c-9d0f-3de2b8c1d2b2"/>
+</archimate:FlowRelationship>

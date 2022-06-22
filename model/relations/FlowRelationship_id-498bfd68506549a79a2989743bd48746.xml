@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PO Admin Reports"
+    id="id-498bfd68506549a79a2989743bd48746"
+    documentation="APOP Reports are sent to /S90_AFTG/POAdmin and used by APOP Admin team in Chesterfield.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8a10fba61866443fa04436819f1e7b2b.xml#id-8a10fba61866443fa04436819f1e7b2b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a95e60dc-8d4f-4d12-a32b-fede429ea1ed.xml#a95e60dc-8d4f-4d12-a32b-fede429ea1ed"/>
+</archimate:FlowRelationship>

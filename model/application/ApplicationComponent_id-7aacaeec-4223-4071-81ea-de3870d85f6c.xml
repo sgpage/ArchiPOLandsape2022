@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Santander Agent"
+    id="id-7aacaeec-4223-4071-81ea-de3870d85f6c"
+    documentation="Being replaced with Point to Point service Nov 2020-Jan 2021&#xD;&#xA;&#xD;&#xA;Agent that provides the interface to Santander in support of online banking applications. Part of the network banking service."/>

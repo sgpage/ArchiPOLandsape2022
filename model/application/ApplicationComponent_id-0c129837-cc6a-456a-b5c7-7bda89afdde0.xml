@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email PDC"
+    id="id-0c129837-cc6a-456a-b5c7-7bda89afdde0"
+    documentation="This service integrates with an SMTP server in order to send emails. The content of the emails is defined by the calling service."/>

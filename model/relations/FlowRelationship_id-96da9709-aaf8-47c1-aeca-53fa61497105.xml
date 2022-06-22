@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDM Updates"
+    id="id-96da9709-aaf8-47c1-aeca-53fa61497105">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-451e4e50-2d89-407f-8c67-54885659ab30.xml#id-451e4e50-2d89-407f-8c67-54885659ab30"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f110b74e-9ae2-43c7-84a3-5221214fa9d7.xml#f110b74e-9ae2-43c7-84a3-5221214fa9d7"/>
+</archimate:FlowRelationship>

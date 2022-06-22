@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: Payzone Device Handler"
+    id="aa2f50c7-262f-442f-8c89-66511fb14c3b"
+    documentation="Formats Legacy Prepay (i.e. Quantum &amp; Talexus) requests and passes them to Payzone using their API.&#xD;&#xA;&#xD;&#xA;Note that this microservice has not completed development"/>

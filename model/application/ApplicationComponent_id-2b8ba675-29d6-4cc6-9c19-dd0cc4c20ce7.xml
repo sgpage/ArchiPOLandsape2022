@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nPower PDC"
+    id="id-2b8ba675-29d6-4cc6-9c19-dd0cc4c20ce7"
+    documentation="Provides the interface between Post Office Ltd, Common Data Platform (CDP) and Paypoint, which in turn is linked to the Unique Transaction Reference Number (UTRN) generation companies - nPower."/>

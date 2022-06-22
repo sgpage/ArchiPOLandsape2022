@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Druid"
+    id="id-774252ef-a87d-474d-ab93-66cb9cd29cc7"
+    documentation="Warehouse restocking app used by Stock services"/>

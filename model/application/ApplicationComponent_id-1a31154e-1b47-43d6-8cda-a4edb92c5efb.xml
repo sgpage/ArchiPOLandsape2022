@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCR Device Management"
+    id="id-1a31154e-1b47-43d6-8cda-a4edb92c5efb"
+    documentation="Along with managing the hardware device also manages the certificates that are required by the SSK to interact with HBS. Certificates are signed by Fujitsu."/>

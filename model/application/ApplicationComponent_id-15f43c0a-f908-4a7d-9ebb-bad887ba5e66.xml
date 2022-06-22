@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch PDC [BRANDS]"
+    id="id-15f43c0a-f908-4a7d-9ebb-bad887ba5e66"
+    documentation="Process of collecting data from CDP to POL customer marketing database (BRANDS). Another name for the Brands batch feed PDC."/>

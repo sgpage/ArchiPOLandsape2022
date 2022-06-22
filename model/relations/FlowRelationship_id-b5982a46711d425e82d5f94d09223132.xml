@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS454"
+    id="id-b5982a46711d425e82d5f94d09223132"
+    documentation="Planned Orders sent to CWC.  &#xD;&#xA;&#xD;&#xA;Four files:&#xD;&#xA;- BUREAU_SPECIAL_ORDERS_yyyymmdd.xml&#xD;&#xA;- BUREAU_ORDERS_yyyymmdd.xml&#xD;&#xA;- STERLING_ORDERS_yyyymmdd.xml&#xD;&#xA;- ATM_ORDERS_yyyymmdd.xml&#xD;&#xA;&#xD;&#xA;Note: This is the requested amount and may not be the actual amount delivered to Horizon.">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-886aa04a-2f73-401c-9a93-a0e3b6111e8f.xml#id-886aa04a-2f73-401c-9a93-a0e3b6111e8f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0.xml#id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0"/>
+</archimate:FlowRelationship>

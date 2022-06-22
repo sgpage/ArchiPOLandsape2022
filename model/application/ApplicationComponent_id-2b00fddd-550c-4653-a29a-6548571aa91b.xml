@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HBS: Smart Metering Service [SMS]"
+    id="id-2b00fddd-550c-4653-a29a-6548571aa91b"
+    documentation="Provides paystation and Horizon access to BG Smart Metering service"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appserver Fileshare AZRPOLWAPP1010"
+    id="id-166d07e39dff4910b0e93848cefe89f0"
+    documentation="File share used by the BRT team in Chestefield. Hosted in Azure"/>

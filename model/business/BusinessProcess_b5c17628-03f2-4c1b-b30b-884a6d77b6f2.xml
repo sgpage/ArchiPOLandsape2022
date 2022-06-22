@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Daily Check of vouchers SR"
+    id="b5c17628-03f2-4c1b-b30b-884a6d77b6f2"
+    documentation="Check of vouchers includes blah">
+  <properties
+      key="Contact"
+      value="Cyril Dogsbody"/>
+  <properties
+      key="FTE_Count"
+      value="1"/>
+</archimate:BusinessProcess>

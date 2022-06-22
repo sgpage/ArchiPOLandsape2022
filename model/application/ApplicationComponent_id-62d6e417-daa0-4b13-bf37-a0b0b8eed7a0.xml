@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TransTrack CWC"
+    id="id-62d6e417-daa0-4b13-bf37-a0b0b8eed7a0"
+    documentation="TransTrack Cash Web Community (CWC) v5.03, replacement for the legacy TransTrack CViT system. Used by POL Supply Chain to track and trace cash and valuables from first point of acceptance to the final delivery point to the Cash In Transit (CIT), also called Cash &amp; Value In Transit (CViT) depots&#xD;&#xA;&#xD;&#xA;CWC is a centralised TransTrack application that uses central hosted Citrix servers to host the client application, accessed remotely at the 23 depots. Also, .NET web app servers and a Progress DB. Supports up to 200 concurrent users.&#xD;&#xA;&#xD;&#xA;Note: Database is partitioned by Depot, with each depot only seeing its data. Two database servers are deployed, one supporting 12 depots, the other 11.">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

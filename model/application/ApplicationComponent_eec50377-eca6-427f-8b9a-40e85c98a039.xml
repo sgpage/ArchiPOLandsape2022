@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA Counter Based Application [CBA]"
+    id="eec50377-eca6-427f-8b9a-40e85c98a039"
+    documentation="Horizon Next Generation (HNG) Anywhere Counter Business Application.&#xD;&#xA;&#xD;&#xA;The version of the Horizon POS software that can run on &quot;any&quot; terminal, i.e. not on a Fujitsu POS build that is specific to Horizon but a generic Windows terminal that can run a JVM.&#xD;&#xA;&#xD;&#xA;Note: R13.05 of HNG is a single code source; when on NT4 it is HNGX, when on Windows 8 and Java 8 it is HNGA">
+  <properties
+      key="DocRef"
+      value="ARCAPPARC0009"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment Service Isolation Layer (PSIL)"
+    id="f250d452-2d6b-4938-878e-d8cee6125d71"
+    documentation="Provides obfscated PAN to Horizon to allow validation against ref data."/>

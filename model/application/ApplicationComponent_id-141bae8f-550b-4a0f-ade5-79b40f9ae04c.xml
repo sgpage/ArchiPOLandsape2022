@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Central"
+    id="id-141bae8f-550b-4a0f-ade5-79b40f9ae04c"
+    documentation="Core HR system, including payroll"/>

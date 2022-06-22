@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registration PDC"
+    id="c63a9862-4c02-4ffd-b02b-c27616d302f7"
+    documentation="Registration of the customer to an application component which provides customer account management as a back-end service residing within the CDP."/>

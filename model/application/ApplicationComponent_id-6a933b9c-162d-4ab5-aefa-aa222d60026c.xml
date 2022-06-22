@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer PDC"
+    id="id-6a933b9c-162d-4ab5-aefa-aa222d60026c"
+    documentation="An application component which provides customer management functions as a backend service residing within the CDP."/>

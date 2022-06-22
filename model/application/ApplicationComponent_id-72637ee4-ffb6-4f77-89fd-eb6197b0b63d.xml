@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Exercise (new banks)"
+    id="id-72637ee4-ffb6-4f77-89fd-eb6197b0b63d"
+    documentation="Excel spreadsheet used for banks other than Santander.  Used like the BBR system is used for Santander. This spreadsheet holds information about the local Post Office that a customer should use for their business banking."/>

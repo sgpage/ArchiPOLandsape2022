@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS558"
+    id="id-29ccd4e275484d019555708e6830b5a4"
+    documentation="Discrepancy and late balance reports sent by email">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5934679f-56e5-4ecd-b1f2-8ba313945976.xml#id-5934679f-56e5-4ecd-b1f2-8ba313945976"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-f6a01a92ed3a4a22b355f2064d5a710b.xml#id-f6a01a92ed3a4a22b355f2064d5a710b"/>
+</archimate:FlowRelationship>

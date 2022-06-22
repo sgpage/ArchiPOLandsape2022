@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Client Transaction Summary [CTS]"
+    id="e3c7ab6a-9833-4bef-936d-7f143702f7d7"
+    documentation="Report used for settlement. At end of client file processing this is a summary of how much money is due to each client that day. Used for settlement."/>

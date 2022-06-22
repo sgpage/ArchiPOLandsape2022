@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS: FMCV Travel Money Card"
+    id="id-1b96fa2e-b9be-4261-acc9-9771981f4762"
+    documentation="Provides access to FRES for the TMC card transaction"/>

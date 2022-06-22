@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS063"
+    id="id-06daea50-e895-4b53-ae7b-0b6a6977c351"
+    documentation="LREC file containing confirmed transactions. Reconciled with Horizon online transactions by DRS.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-791f2df4-b533-402c-9680-6cbd07c9b133.xml#id-791f2df4-b533-402c-9680-6cbd07c9b133"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d26bb396-7dc4-4c32-a6ae-f7309b95d173.xml#d26bb396-7dc4-4c32-a6ae-f7309b95d173"/>
+</archimate:FlowRelationship>

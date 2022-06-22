@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS097 (Real Time)"
+    id="id-47e8d9a3-f615-437c-845f-6de3b40289df">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-821ed37c-05ed-4f19-bbf4-53af1fc5f04a.xml#id-821ed37c-05ed-4f19-bbf4-53af1fc5f04a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a439435d-ea35-4d28-a9f3-08c3a8c51c29.xml#a439435d-ea35-4d28-a9f3-08c3a8c51c29"/>
+</archimate:FlowRelationship>

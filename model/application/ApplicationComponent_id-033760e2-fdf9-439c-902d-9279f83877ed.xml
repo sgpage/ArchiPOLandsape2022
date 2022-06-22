@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PZ: Legacy Prepay Server"
+    id="id-033760e2-fdf9-439c-902d-9279f83877ed"
+    documentation="Payzone endpoint for HIH (or another third party) to call to access the third generation [GEN3] peripheral to undertake, Itron, Siemens and Near Field transactions"/>

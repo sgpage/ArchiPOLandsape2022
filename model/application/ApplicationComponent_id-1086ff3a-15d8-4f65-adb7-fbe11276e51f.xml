@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arrow"
+    id="id-1086ff3a-15d8-4f65-adb7-fbe11276e51f"
+    documentation="Post Office MI system providing online Power BI dashboards and reports. Brings together data from Credence and other systems.">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

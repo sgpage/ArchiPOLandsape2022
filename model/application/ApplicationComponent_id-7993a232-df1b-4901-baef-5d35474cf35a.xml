@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SLA Data WareHouse [DWH]"
+    id="id-7993a232-df1b-4901-baef-5d35474cf35a"
+    documentation="Data Warehouse - a service running on DAT server and providing information on service metrics (SLA performance)"/>

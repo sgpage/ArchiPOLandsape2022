@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lottery Team"
+    id="id-8844f9d7-4808-4b92-836b-f328c2821006"
+    documentation="Lottery team does blah">
+  <properties
+      key="FTE_Count"
+      value="2"/>
+  <properties
+      key="Contact"
+      value="Beryl"/>
+</archimate:BusinessFunction>

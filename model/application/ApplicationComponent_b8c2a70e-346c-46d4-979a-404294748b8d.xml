@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Allpay Smart Metering PDC"
+    id="b8c2a70e-346c-46d4-979a-404294748b8d"
+    documentation="Post office provides customers to pre-pay for utilities such as electricity and gas through the issue of tokens and the charging of keys and cards by SSE, Scottish Power, nPower etc. and payments handled by Allpay smart metering hub."/>

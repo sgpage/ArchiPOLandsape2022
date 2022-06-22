@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS104"
+    id="id-910d1c06944846999ef86e23cd8b9122"
+    documentation="FX Margin and spot rates">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_eba6bf3d-1891-46ec-84f7-cf03e94fb700.xml#eba6bf3d-1891-46ec-84f7-cf03e94fb700"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obnline call for HMPO"
+    id="id-0b484a4f-5a0c-4f5a-9543-b26eefc14b03">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-56a4404d-0b9b-47f0-a8f9-add77c0dc4d3.xml#id-56a4404d-0b9b-47f0-a8f9-add77c0dc4d3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4237c8c8-60d2-407d-8ede-e5f1602138fc.xml#id-4237c8c8-60d2-407d-8ede-e5f1602138fc"/>
+</archimate:FlowRelationship>

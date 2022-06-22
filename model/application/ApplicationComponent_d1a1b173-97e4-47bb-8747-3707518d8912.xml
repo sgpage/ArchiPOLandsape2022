@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: FTEL"
+    id="d1a1b173-97e4-47bb-8747-3707518d8912"
+    documentation="Fujitsu provided service to process POL Homephone Broadband applications."/>

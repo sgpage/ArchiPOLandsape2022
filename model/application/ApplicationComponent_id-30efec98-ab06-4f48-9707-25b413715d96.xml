@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: Northern Ireland Electricity"
+    id="id-30efec98-ab06-4f48-9707-25b413715d96"
+    documentation="On line connection from a magnetic card swipe, with an amount being requested and returning a PIN on voucher that is printed and customer then keys into their meter."/>

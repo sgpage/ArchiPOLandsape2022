@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Contact Case Management"
+    id="id-65c256d4-53b2-450c-bc81-3004858ca8c7"
+    documentation="This is used by the Contact Centres in order to log and manage calls received.&#xD;&#xA;&#xD;&#xA;The new MS Dynamics application will interface with the POL Exchange Server for the sending and receiving of emails. It will also receive data from MDM via a (currently) manual MDM to NBSC data extract process where a weekly file of Branch data changes is delivered to a file server location by Business Support services. The last data set will be a file from Royal Mail for national postcodes."/>

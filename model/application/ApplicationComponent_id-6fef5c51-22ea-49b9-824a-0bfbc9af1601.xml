@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assistants Management"
+    id="id-6fef5c51-22ea-49b9-824a-0bfbc9af1601"
+    documentation="Dynamics365 - A database to capture information about the staff working for the POL sub post masters&#xD;&#xA;&#xD;&#xA;Maintains list of current staff from the database. The database is also used to maintain office data and run security information.&#xD;&#xA;&#xD;&#xA;27 users"/>

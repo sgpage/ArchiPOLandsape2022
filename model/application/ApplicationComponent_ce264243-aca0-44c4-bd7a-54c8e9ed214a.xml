@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mercia"
+    id="ce264243-aca0-44c4-bd7a-54c8e9ed214a"
+    documentation="The Mercia Inventory planning system provides the inventory functionality and uses demand information received from Galaxy to produce forecasts and raise purchase orders. Mercia generates demand forecasts and required POs for SAP.  Integrates with Galaxy for ordering. &#xD;&#xA;&#xD;&#xA;Based on Infor Demand Planning software, hosted in POL Swindon and managed by CSC using Infor for primary application support.&#xD;&#xA;&#xD;&#xA;AIX 5.3"/>

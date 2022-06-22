@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1E Nomad"
+    id="id-1b734872-07fa-4bcf-bcbc-e3259614544c"
+    documentation="Used to control package downloads to the terminal and provide distribution points within branch to reduce WAN usage"/>

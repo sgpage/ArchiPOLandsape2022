@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ParcelShop: Cashier Management Server (CMS)"
+    id="id-6461883f-0fe9-4ce2-abe3-d610f20c0a3d"
+    documentation="Ruby on rails application modified from Payzone code. Acts as authentication server for Parcelshop."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment service PDC"
+    id="id-082701a4-3396-4a18-a2cd-8149b4ad9559"
+    documentation="Processes payment notifications from GlobalPay that are received as a result of Payments made on the GlobalPay Iris system. Provides payment management functions as a backend service residing within the CDP."/>

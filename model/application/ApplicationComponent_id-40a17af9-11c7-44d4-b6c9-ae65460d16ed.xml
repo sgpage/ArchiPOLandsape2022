@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS: DVLA"
+    id="id-40a17af9-11c7-44d4-b6c9-ae65460d16ed"
+    documentation="Used by ADC to access the newer ADC transactions"/>

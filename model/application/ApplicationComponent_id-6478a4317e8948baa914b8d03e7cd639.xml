@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APOP:SOxx"
+    id="id-6478a4317e8948baa914b8d03e7cd639"
+    documentation="APOP Stock Ordering services. Made up of services SOBR, SOIT and SOOD"/>

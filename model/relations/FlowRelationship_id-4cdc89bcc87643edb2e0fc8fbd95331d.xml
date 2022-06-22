@@ -1,0 +1,19 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS548"
+    id="id-4cdc89bcc87643edb2e0fc8fbd95331d"
+    documentation="ATM Pouches recieved by Horizon sent to ATM Service at end  of business day. &#xD;&#xA;&#xD;&#xA;Arrow recieves pouch barcodes from Horizon and maps to Pouch values from CWC to derive this figure and can report Branch Cash and ATM cash separatly.">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <properties
+      key="Filename"
+      value="PDYYYYMMDD.csv"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1086ff3a-15d8-4f65-adb7-fbe11276e51f.xml#id-1086ff3a-15d8-4f65-adb7-fbe11276e51f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c37dfffa4e4f45669fe095a693adb0f3.xml#id-c37dfffa4e4f45669fe095a693adb0f3"/>
+</archimate:FlowRelationship>

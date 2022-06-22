@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS272"
+    id="id-3207c280-0a13-497d-a00d-4201c6542384"
+    documentation="Barcoding all parcels data">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ec7e3d4e-1127-49f7-b5d3-54d81d5aed9c.xml#ec7e3d4e-1127-49f7-b5d3-54d81d5aed9c"/>
+</archimate:FlowRelationship>

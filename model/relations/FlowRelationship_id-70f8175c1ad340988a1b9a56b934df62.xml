@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS447"
+    id="id-70f8175c1ad340988a1b9a56b934df62"
+    documentation="AIS447 - Sterling Cash on Hand from Horizon. ATM project will be adding extra detail to the header record for each branch. &#xD;&#xA;&#xD;&#xA;For each branch the generated cash position is reported, and if the branch is conformant and completes all cash declarations then detail rows are included that give the denomination breakdown. ATM cash is currently declared on a bespoke denomination line (itemID).">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e90b8ffd6a9945c5a5fcb21de4995956.xml#id-e90b8ffd6a9945c5a5fcb21de4995956"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1086ff3a-15d8-4f65-adb7-fbe11276e51f.xml#id-1086ff3a-15d8-4f65-adb7-fbe11276e51f"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link Agent"
+    id="fc0cdb88-621b-4a7f-a5ec-049b53303713"
+    documentation="Being replaced with Point to Point service Nov 2020-Jan 2021&#xD;&#xA;&#xD;&#xA;Agent that provides the interface to VocaLink in support of online banking applications. Part of the network banking service."/>

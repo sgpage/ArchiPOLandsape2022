@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP SuccessFactors"
+    id="id-062f3e89-b095-4421-9bca-392f1488085d"
+    documentation="SAP SuccessFactors HCM suite providing a core HR function. Delivered as a SaaS.&#xD;&#xA;&#xD;&#xA;SuccessFactors suite consists of a number of modules, only some of which will be implemented and used by POL. These are:&#xD;&#xA;Learning&#x9;Already Live, but regression impact &#xD;&#xA;Employee Central&#x9;Wave 1&#xD;&#xA;Employee Central Payroll&#x9;Wave 1&#xD;&#xA;Onboarding&#x9;Wave 1&#xD;&#xA;Advanced Reporting&#x9;Wave 1&#xD;&#xA;SuccessFactors Mobile&#x9;Wave 1&#xD;&#xA;Recruiting&#x9;Wave 1 (Recruitment Management) / Wave 2 (Recruitment Marketing)&#xD;&#xA;Compensation&#x9;Wave 2&#xD;&#xA;Succession &amp; Development&#x9;Wave2&#xD;&#xA;Workforce Analytics&#x9;Wave 2&#xD;&#xA;Workforce Planning&#x9;Wave 2"/>

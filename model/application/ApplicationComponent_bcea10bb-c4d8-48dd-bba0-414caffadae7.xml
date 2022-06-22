@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BWS"
+    id="bcea10bb-c4d8-48dd-bba0-414caffadae7"
+    documentation="Interstage platform. Provides access to POL admin staff to Post office home phone and broad band sales and customer information. This service also hosts the agent for Postcode Anywhere.s"/>

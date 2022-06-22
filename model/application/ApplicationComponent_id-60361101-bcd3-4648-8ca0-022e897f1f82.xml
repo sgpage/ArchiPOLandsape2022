@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APOP Service Preparation Tool"
+    id="id-60361101-bcd3-4648-8ca0-022e897f1f82">
+  <properties
+      key="PCI Impacted"
+      value="Y"/>
+</archimate:ApplicationComponent>

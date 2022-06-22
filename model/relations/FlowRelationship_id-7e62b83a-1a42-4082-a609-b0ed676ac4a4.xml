@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PO Client settlement"
+    id="id-7e62b83a-1a42-4082-a609-b0ed676ac4a4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-42bdf98e-0954-428f-9a4a-2acc53d385ca.xml#id-42bdf98e-0954-428f-9a4a-2acc53d385ca"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fdc30cd2-73d5-4f3c-a0cd-1b2505cf040f.xml#fdc30cd2-73d5-4f3c-a0cd-1b2505cf040f"/>
+</archimate:FlowRelationship>

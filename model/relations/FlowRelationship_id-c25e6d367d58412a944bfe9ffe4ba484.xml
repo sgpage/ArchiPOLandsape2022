@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS554"
+    id="id-c25e6d367d58412a944bfe9ffe4ba484"
+    documentation="atm_c_06a file - denomination level dispense data for ATM&#xD;&#xA;atm_c_addcash file - denomination level top up data for ATM">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c37dfffa4e4f45669fe095a693adb0f3.xml#id-c37dfffa4e4f45669fe095a693adb0f3"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ce9f12cbd0234ae5a0f0b272b722d38e.xml#id-ce9f12cbd0234ae5a0f0b272b722d38e"/>
+</archimate:FlowRelationship>

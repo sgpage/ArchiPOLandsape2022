@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TES Web Server"
+    id="id-05d2bab2-0c60-4c87-bd0e-dc24945251ec"
+    documentation="Being replaced with Point to Point service Nov 2020-Jan 2021 - being retired&#xD;&#xA;&#xD;&#xA;Web server used by FSC to query Horizon banking transactions."/>

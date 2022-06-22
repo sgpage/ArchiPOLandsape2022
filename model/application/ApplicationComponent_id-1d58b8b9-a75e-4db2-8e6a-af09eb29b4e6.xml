@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payout system"
+    id="id-1d58b8b9-a75e-4db2-8e6a-af09eb29b4e6"
+    documentation="Also known as Payout Database. Application that compares logs, tracks Postal Order payments and used to search for and report on PO transactions in response to customer or Branch-raised incidents.&#xD;&#xA;(Transformed from Access to Sequel 2015)"/>

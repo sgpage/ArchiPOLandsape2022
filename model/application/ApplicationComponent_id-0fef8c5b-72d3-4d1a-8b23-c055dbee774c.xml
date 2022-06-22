@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horizon Business Services [HBS]"
+    id="id-0fef8c5b-72d3-4d1a-8b23-c055dbee774c"
+    documentation="Horizon Business Services. This provides the ARTS compliant interface with Horizon (including self-service kiosk)&#xD;&#xA;&#xD;&#xA;ARTS: ARTS XML Retail Transaction Interface Technical Specification v1.0 25/12/2007&#xD;&#xA;&#xD;&#xA;The interface is defined in [REQ/APP/AIS/1794]. It can be split into 2 parts:&#xD;&#xA;1.&#x9;Basket/Transaction Services&#xD;&#xA;2.&#x9;Non-Basket/Transaction Services">
+  <properties
+      key="DocRef"/>
+</archimate:ApplicationComponent>

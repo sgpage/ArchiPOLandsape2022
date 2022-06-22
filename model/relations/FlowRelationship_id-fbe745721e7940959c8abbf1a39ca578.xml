@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS002"
+    id="id-fbe745721e7940959c8abbf1a39ca578"
+    documentation="Buruea transaction client files are split out by PODG and a subset of data sent to the Anti Money Laundering team. Fres also carry out AML as part of the AML, plus in slower time after the event">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b64934fc547c4acca132e2f4b414800e.xml#id-b64934fc547c4acca132e2f4b414800e"/>
+</archimate:FlowRelationship>

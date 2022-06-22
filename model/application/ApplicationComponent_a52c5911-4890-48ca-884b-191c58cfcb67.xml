@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS Dynamics"
+    id="a52c5911-4890-48ca-884b-191c58cfcb67"
+    documentation="MS Dynamics on prem instance - being depracated in favour of Dynamics 365."/>

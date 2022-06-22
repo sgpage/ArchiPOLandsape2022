@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HRDP"
+    id="id-3e75e05d-646c-4b5a-b498-e4799db5be71"
+    documentation="HRDP supports the data preparation and delivery of Type F, Type G and Type X reference data by SSC in addition to supporting the HNG-X delivery requirements. This single user tool, consisting of a Microsoft Access database and Visual Basic applications, might have multiple instances in use at any point in time. Each version of the tool is synchronised regularly by importing the master version of the reference data from the live HNG-X reference data system.&#xD;&#xA;The tool features concepts such as:&#xD;&#xA;•&#x9;File import and export capability &#xD;&#xA;•&#x9;Generation of delta files &#xD;&#xA;•&#x9;Data maintenance and export by business change&#xD;&#xA;•&#x9;Object effective date control&#xD;&#xA;•&#x9;Object cloning"/>

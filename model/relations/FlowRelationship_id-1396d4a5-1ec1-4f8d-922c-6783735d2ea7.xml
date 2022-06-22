@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Banner Message"
+    id="id-1396d4a5-1ec1-4f8d-922c-6783735d2ea7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-72c20363-bea5-4f51-893c-90d0596b6470.xml#id-72c20363-bea5-4f51-893c-90d0596b6470"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c5ffd0ea-64ef-4893-aaf6-697fe45febfc.xml#c5ffd0ea-64ef-4893-aaf6-697fe45febfc"/>
+</archimate:FlowRelationship>

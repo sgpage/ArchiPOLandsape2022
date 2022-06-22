@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PODG External [DGE]"
+    id="id-8c6962ca-82d3-4678-9975-a9f7d358a489"
+    documentation="Uses COTS product JSCAPE (http://www.jscape.com/) to provide secure file transfer (primarily SFTP) to and from external third-party systems. Linked to PODG internal through rsync."/>

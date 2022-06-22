@@ -1,0 +1,5 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="YesPay Payment Service Provider [PSP]"
+    id="id-3d533d83-2b39-4c16-942e-2f2e687c8c4d"
+    documentation="Used in the self-serve kiosks (SSKs) in branch to take card payments, using YesPay as the merchant acquirer. &#xD;&#xA;Note: There are plans to replace these with Ingenico devices using Global Pay as the MA as part of Point-to-point encryption to reduce the scope of PCI compliance, but this has yet to receive funding."/>

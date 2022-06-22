@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS348"
+    id="id-8a42c421-355a-46e2-a7a7-5457b0b0851a"
+    documentation="Bank account sort code and account number validation.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-667dfd12-c986-4901-90b2-bbac4d993783.xml#id-667dfd12-c986-4901-90b2-bbac4d993783"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6f715300-34c6-466c-977b-b13837b9545d.xml#id-6f715300-34c6-466c-977b-b13837b9545d"/>
+</archimate:FlowRelationship>

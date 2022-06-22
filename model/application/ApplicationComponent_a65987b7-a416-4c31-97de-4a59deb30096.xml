@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fleet Management"
+    id="a65987b7-a416-4c31-97de-4a59deb30096"
+    documentation="Database details of vehicles in the Counters, Logistics &amp; Supply fleet. This includes cash in transit vehicles and others.&#xD;&#xA;&#xD;&#xA;It contains information such as model, registration number etc. Migrated to MS Dynamics from Access in 2015&#xD;&#xA;&#xD;&#xA;Currently vehicles are managed by RMG workshop. As part of separation, a third party will take over managing them, in which case this database may no longer be needed."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Paystation Application"
+    id="a8f363c0-1804-4678-9ca2-32e16aef2d10"
+    documentation="This is the paystation applications, which are distinct from the paystation device"/>

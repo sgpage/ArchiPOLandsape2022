@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Planning Databases"
+    id="id-3e3b151b-6f4d-44bd-8889-a5867456ff10"
+    documentation="Various Access databases used by the Branch Network Design and Analysis team:&#xD;&#xA;&#xD;&#xA; e.g.:&#xD;&#xA;&#xD;&#xA;ARTHoR (used by the Network Transformation Programme)&#xD;&#xA;AEI txns,&#xD;&#xA;Branch Data,&#xD;&#xA;IC AgentsPay data,&#xD;&#xA;New Customer Sessions&#xD;&#xA;paystation,&#xD;&#xA;PILOT&#xD;&#xA;PostandGo,&#xD;&#xA;PKMAX,&#xD;&#xA;PAF,&#xD;&#xA;Retailers&#xD;&#xA;WTMS&#xD;&#xA;Travel Seasonality&#xD;&#xA;&#xD;&#xA;These have been or will be migrated to SQL server back end, with an Access front end."/>

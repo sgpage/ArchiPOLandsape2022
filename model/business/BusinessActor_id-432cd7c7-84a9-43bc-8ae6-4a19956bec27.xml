@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch User"
+    id="id-432cd7c7-84a9-43bc-8ae6-4a19956bec27"
+    documentation="Person in branch with a Horizon role of Manager, Supervisor or Clerk"/>

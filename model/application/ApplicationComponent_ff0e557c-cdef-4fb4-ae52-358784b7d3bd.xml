@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PODG Internal [DGI]"
+    id="ff0e557c-cdef-4fb4-ae52-358784b7d3bd"
+    documentation="Internal part of PODG. Uses Camel to provide integration between internal systems, primarily moving and transforming files.&#xD;&#xA;Linked to external PODG via rsync so an internal system can send to an external 3rd party system."/>

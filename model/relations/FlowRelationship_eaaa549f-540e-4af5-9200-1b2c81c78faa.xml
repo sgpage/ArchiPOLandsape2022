@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF24"
+    id="eaaa549f-540e-4af5-9200-1b2c81c78faa"
+    documentation="Blurb">
+  <properties
+      key="DocRef"
+      value="ARC"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e9eded1f-068d-4818-85e7-e43dc45cca37.xml#e9eded1f-068d-4818-85e7-e43dc45cca37"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-71647ff4-257c-4bfc-be26-d841f2607064.xml#id-71647ff4-257c-4bfc-be26-d841f2607064"/>
+</archimate:FlowRelationship>

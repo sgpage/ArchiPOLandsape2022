@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product PDC"
+    id="id-1cffb1df-d721-4cbc-ae1f-25c91c901433"
+    documentation="Provides product catalogue management operations as a backend service residing within the CDP."/>

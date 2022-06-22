@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS454"
+    id="id-df7e3afaa92c44d09e7c2b575db1921a"
+    documentation="CWC Orders sent by IMT via a fileshare folder. Note: Interface states it is Arrow to CWC, but this is not believed to be the case!">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ce9f12cbd0234ae5a0f0b272b722d38e.xml#id-ce9f12cbd0234ae5a0f0b272b722d38e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c37dfffa4e4f45669fe095a693adb0f3.xml#id-c37dfffa4e4f45669fe095a693adb0f3"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1d813b6b-f5bf-4a44-918b-c84eb8b4d064"
+    documentation="Feed of FAD codes and accounting codes">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f110b74e-9ae2-43c7-84a3-5221214fa9d7.xml#f110b74e-9ae2-43c7-84a3-5221214fa9d7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fb89cac2-b643-4c36-979b-b35caf4c4d13.xml#fb89cac2-b643-4c36-979b-b35caf4c4d13"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Business Data Subsystem"
+    id="id-0ce5ada9-676b-4e2c-8c1d-b1f5480a2d52"
+    documentation="Business Data Objects encapsulate the capability of the application to provide reusable which manage business state on behalf of Business Services and Business Logic Objects.&#xD;&#xA;The Business Data Manager provides the capability to create Business Data Objects.  The Business Data Manager has the capability to interact with the Reference Data Manager to retrieve configuration information and product information to instantiate Business Data Objects. Business Data Objects are generally java types."/>

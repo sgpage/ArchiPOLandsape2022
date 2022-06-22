@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rateboard"
+    id="id-386d7c1a-072d-4ff3-b0aa-4d64f37f367f"
+    documentation="Foreign exchange rate board&#xD;&#xA;&#xD;&#xA;Installed in approx. 750 branches, connected via RS232 to the branch terminal (COM port 12)"/>

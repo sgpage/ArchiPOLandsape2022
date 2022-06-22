@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF76"
+    id="id-36914726-8ae7-4b7f-b428-f8f2b4df60f6">
+  <properties
+      key="Specification"
+      value="MultiOrder_RetailServices.docx"/>
+  <source
+      xsi:type="archimate:Node"
+      href="Node_f472aa72-10ec-404b-bf0c-ea2770a6d923.xml#f472aa72-10ec-404b-bf0c-ea2770a6d923"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-1ef52130-72a1-48e3-87ac-e8c3d9f210d6.xml#id-1ef52130-72a1-48e3-87ac-e8c3d9f210d6"/>
+</archimate:FlowRelationship>

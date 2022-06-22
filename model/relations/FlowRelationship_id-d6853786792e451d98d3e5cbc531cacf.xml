@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS454"
+    id="id-d6853786792e451d98d3e5cbc531cacf"
+    documentation="Planned Orders sent to CWC. Manually uploaded by the IMT to the Arrow Fileshare where they are moved to CWC by SAP PI  &#xD;&#xA;&#xD;&#xA;Four files:&#xD;&#xA;•&#x9;BUREAU_SPECIAL_ORDERS_yyyymmdd.xml&#xD;&#xA;•&#x9;BUREAU_ORDERS_yyyymmdd.xml&#xD;&#xA;•&#x9;STERLING_ORDERS_yyyymmdd.xml&#xD;&#xA;•&#x9;ATM_ORDERS_yyyymmdd.xml&#xD;&#xA;&#xD;&#xA;Note: This is the requested amount and may not be the actual amount delivered to Horizon.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a7dd3d2b-b2e5-4225-9285-91c819f91d3b.xml#a7dd3d2b-b2e5-4225-9285-91c819f91d3b"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ce9f12cbd0234ae5a0f0b272b722d38e.xml#id-ce9f12cbd0234ae5a0f0b272b722d38e"/>
+</archimate:FlowRelationship>

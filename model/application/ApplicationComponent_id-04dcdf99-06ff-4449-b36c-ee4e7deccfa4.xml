@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Giro Change Giving"
+    id="id-04dcdf99-06ff-4449-b36c-ee4e7deccfa4"
+    documentation="The Giro Change Giving service offered by Post Office Ltd allows customer businesses to purchase cash change. Although most use an automated card based system through Horizon, roughly 700 businesses conduct these transactions through paper forms. The GCG application is used to log the contents of these forms and produce regular reports on the transactions made&#xD;&#xA;(Transformed from Access to MS Dynamics 2015)&#xD;&#xA;&#xD;&#xA;Users: 4, 2 concurrent&#xD;&#xA;Change giving forms are forwarded manually on paper&#xD;&#xA; - records information in DOS (DBase file dbf)&#xD;&#xA; - closes weekly in a dbf to Santander"/>

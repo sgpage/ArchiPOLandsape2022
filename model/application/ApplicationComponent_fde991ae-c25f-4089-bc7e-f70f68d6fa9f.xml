@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capricorn"
+    id="fde991ae-c25f-4089-bc7e-f70f68d6fa9f"
+    documentation="Conveyor Control System (CCS) used in Swindon. Controlled by Paris Control system which is driven by the Warehouse Control System (WCS) via a Sinec interface&#xD;&#xA;&#xD;&#xA;Windows XP"/>

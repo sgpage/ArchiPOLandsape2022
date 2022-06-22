@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Branch Support Service (BRSS)"
+    id="b4b5eab7-c71a-4d32-9fbb-c9974e3dd0f1"
+    documentation="Replica of the branch database, up to 15 mins behind the BRDB. Used by HORIce for MI and real-time transaction monitoring."/>

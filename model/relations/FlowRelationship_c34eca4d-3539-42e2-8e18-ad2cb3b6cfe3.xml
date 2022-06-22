@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Support"
+    id="c34eca4d-3539-42e2-8e18-ad2cb3b6cfe3"
+    documentation="Propriatary interface between Cennox and the ATM hardware for support purposes">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-59219874-dc8f-49c0-87d0-f21858ba0c99.xml#id-59219874-dc8f-49c0-87d0-f21858ba0c99"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_e1184f00-fbf5-4869-b4ed-3b19ba9d4e39.xml#e1184f00-fbf5-4869-b4ed-3b19ba9d4e39"/>
+</archimate:FlowRelationship>

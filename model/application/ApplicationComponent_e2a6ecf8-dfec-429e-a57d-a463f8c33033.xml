@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store and Forward cluster"
+    id="e2a6ecf8-dfec-429e-a57d-a463f8c33033"
+    documentation="AEI messaging platform for storing identity requests and responses between branch and 3rd party identity services"/>

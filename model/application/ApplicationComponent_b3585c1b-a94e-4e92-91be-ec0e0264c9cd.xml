@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CACH"
+    id="b3585c1b-a94e-4e92-91be-ec0e0264c9cd"
+    documentation="The Cheque Authority Card service offered by Post Office Ltd allows customer businesses to buy postage in branch with a business cheque accompanied by an authorised CACH card. CACH (Cheque Authority Card Holders) is the application used to register, track and report on businesses, which are registered for this service and have been issued a card. Application maintains data relating to Cheque Authority Card Holders. Includes company data and bank details.&#xD;&#xA;(Transformed from Access to Sequel 2015)&#xD;&#xA;&#xD;&#xA;Total users: 4, 2 concurrent&#xD;&#xA;Stores the Cheque Authority applications submitted by customers.&#xD;&#xA;Data is recorded manually from paper applications.&#xD;&#xA;Twice a week a report is generated for a third party to produce cards.&#xD;&#xA;Another report called bounced checks report is also generated.&#xD;&#xA;CSC provides support.&#xD;&#xA;Version: 11.5614"/>

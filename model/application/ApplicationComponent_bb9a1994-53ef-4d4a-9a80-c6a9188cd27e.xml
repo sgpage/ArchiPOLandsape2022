@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collect and Return Webservice"
+    id="bb9a1994-53ef-4d4a-9a80-c6a9188cd27e"
+    documentation="This is a GWS service that provides access to FRES. We submit real time sales to them so they can maintain accurate branch view of stock."/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS056"
+    id="id-6b2b96b3-0aef-4530-9700-fb9d4b8cee46"
+    documentation="Near real time messages confirming payments for AEI transactions. Upon reciept of the confirmation Thales then releases the transaction from AEI to the client.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c6367a4a-7d60-4097-9734-a8d9ed3a05aa.xml#c6367a4a-7d60-4097-9734-a8d9ed3a05aa"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0c1542d1-e54c-49e6-9d81-493f93e659cd.xml#id-0c1542d1-e54c-49e6-9d81-493f93e659cd"/>
+</archimate:FlowRelationship>

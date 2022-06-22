@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory [AD]"
+    id="id-3dc2fb83-7810-48ed-88d6-3c62d1de3a82"
+    documentation="Used to federate POL user’s logon and federate between the POL AD and Office365"/>

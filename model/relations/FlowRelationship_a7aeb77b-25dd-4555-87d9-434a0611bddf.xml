@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS528"
+    id="a7aeb77b-25dd-4555-87d9-434a0611bddf"
+    documentation="ODBC Connection allowing Branch Insight DB to join to tables inside SNow">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8cb1a094-ff05-4006-8abd-510fc65a4c3a.xml#id-8cb1a094-ff05-4006-8abd-510fc65a4c3a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6f73fd63-6826-48af-8e95-638e376fdc5c.xml#id-6f73fd63-6826-48af-8e95-638e376fdc5c"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Services Logging"
+    id="id-7355b5a7-73ba-457f-916e-1ce0830891eb"
+    documentation="The Financial Services Logging team manages queries and complaints from customers and partner organisations related to the various financial services offered by Post Office Ltd.&#xD;&#xA;The FSL application allows them to log, track and report on these calls.&#xD;&#xA;&#xD;&#xA;Total users: 10, 3 concurrent"/>

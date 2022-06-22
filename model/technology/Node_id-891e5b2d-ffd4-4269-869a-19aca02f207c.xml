@@ -1,0 +1,18 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="POLSAP"
+    id="id-891e5b2d-ffd4-4269-869a-19aca02f207c">
+  <properties
+      key="Criticality"
+      value="High"/>
+  <properties
+      key="IPR Owner"/>
+  <properties
+      key="PCI Impacted"
+      value="No"/>
+  <properties
+      key="Specification"/>
+  <properties
+      key="Supplier"
+      value="Fujitsu"/>
+</archimate:Node>

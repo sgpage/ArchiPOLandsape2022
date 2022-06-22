@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVLA Applications"
+    id="c3ed05d1-9856-4c47-9218-6d4c758bfda5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5494dcf7-8fe8-4ede-8167-140b9fbc8df9.xml#id-5494dcf7-8fe8-4ede-8167-140b9fbc8df9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c776d2b7-59c7-469c-aea4-85b43fa9c8a9.xml#c776d2b7-59c7-469c-aea4-85b43fa9c8a9"/>
+</archimate:FlowRelationship>

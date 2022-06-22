@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Bitlocker Administration Monitoring [MBAM]"
+    id="id-686c8cd7-e2c0-4818-9470-8cf19638504f"
+    documentation="Microsoft BitLocker Administration and Monitoring (MBAM) provides enterprise management capabilities for BitLocker.&#xD;&#xA;Bitlocker is a disk level encryption technology used on POL EUC devices to prevent data loss in case of theft. This tool provides administration of Bitlocker."/>

@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keyboard Video Mouse [KVM] to access HNGA screen &amp; keyboard"
+    id="b202c7e1-2ab8-4cde-af88-27f3e9c43811"
+    documentation="Keyboard Video Mouse switch that allows them to be shared between the POS terminal and the AEI terminal.&#xD;&#xA;The HNGA terminal must have a separate screen (not a tablet or all in one) to allow the AEI clerk PC to display on it"/>

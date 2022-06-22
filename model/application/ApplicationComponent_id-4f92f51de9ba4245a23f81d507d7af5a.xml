@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APOP:SDCS"
+    id="id-4f92f51de9ba4245a23f81d507d7af5a"
+    documentation="Carries out a lookup for an indemnity record before chaining to the Bank Service"/>

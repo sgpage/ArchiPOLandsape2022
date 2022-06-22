@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS559"
+    id="id-b7c10dbaeba34b71915566bac6fe1f0c"
+    documentation="ATM SU Association Zero Value Transaction Ack.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-6a86bdcd37934f2a81eb2d63fe506d03.xml#id-6a86bdcd37934f2a81eb2d63fe506d03"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ae329b15c1bc4b259928d9c5df435782.xml#id-ae329b15c1bc4b259928d9c5df435782"/>
+</archimate:FlowRelationship>

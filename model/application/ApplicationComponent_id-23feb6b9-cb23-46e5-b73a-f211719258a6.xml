@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core web app"
+    id="id-23feb6b9-cb23-46e5-b73a-f211719258a6"
+    documentation="Used to host web services consumed by the branch application"/>

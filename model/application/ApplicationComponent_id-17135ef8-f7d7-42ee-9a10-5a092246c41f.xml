@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HBS: CDP Services"
+    id="id-17135ef8-f7d7-42ee-9a10-5a092246c41f"
+    documentation="Provides a link to the CDP platform for the ADC Generic Online calls."/>

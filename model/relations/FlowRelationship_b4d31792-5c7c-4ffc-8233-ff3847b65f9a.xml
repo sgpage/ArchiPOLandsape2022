@@ -1,0 +1,16 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AIS550/552/553/554"
+    id="b4d31792-5c7c-4ffc-8233-ff3847b65f9a"
+    documentation="AIS533 - Full list of VocaLing data files sent to POL&#xD;&#xA;AIS550 atm_c_02_PO report containing dispensed volumes&#xD;&#xA;AIS552 atmcash report containing dispense and ONCH data per ATM&#xD;&#xA;AIS553 atm_c_06c report containing detailed transaction log of ATM transactions.&#xD;&#xA;AIS554 atm_c_06a report containing denomination breakdowns">
+  <properties
+      key="Views"
+      value="ATM"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-791f2df4-b533-402c-9680-6cbd07c9b133.xml#id-791f2df4-b533-402c-9680-6cbd07c9b133"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d26bb396-7dc4-4c32-a6ae-f7309b95d173.xml#d26bb396-7dc4-4c32-a6ae-f7309b95d173"/>
+</archimate:FlowRelationship>

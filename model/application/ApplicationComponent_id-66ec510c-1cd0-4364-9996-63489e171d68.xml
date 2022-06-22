@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="POCa Card Association Agent"
+    id="id-66ec510c-1cd0-4364-9996-63489e171d68"
+    documentation="Post Office Card Account (POCa) aka CAPO (Card Account Post Office) provides a mechanism for benefit payments to be made and collected by the beneficiary. Service informs JPM of card associations and replaces a older service pre P2PE."/>

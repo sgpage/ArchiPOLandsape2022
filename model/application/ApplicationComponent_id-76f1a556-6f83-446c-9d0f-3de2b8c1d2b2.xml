@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APADC Gateway"
+    id="id-76f1a556-6f83-446c-9d0f-3de2b8c1d2b2"
+    documentation="Automated Payment Advance Data Capture (AP-ADC) scripts running in the terminal send XML to CDP via the AP-ADC gateway PDC&#xD;&#xA;&#xD;&#xA;AP-ADC was developed as a generic capability on the back of a transaction implementation - making the solution configurable through reference data in order to enable re-use.&#xD;&#xA;The AP-ADC toolset has grown as new requirements have originated through the implementation of new transactions - all following the principle of re-use and configuration."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: Airtricity"
+    id="c83dbd4b-1ff9-4e83-8c68-f46258006707"
+    documentation="On line connection from a magnetic card swipe, with an amount being requested and returning a PIN on voucher that is printed and customer then keys into their meter."/>

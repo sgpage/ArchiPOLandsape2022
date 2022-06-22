@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project Server"
+    id="a7680323-bd59-40d2-836f-f59a5d3f4ab5"
+    documentation="Post Office project server. Hosts all change data related to projects, resources and budgets for cross-charging and management reporting"/>

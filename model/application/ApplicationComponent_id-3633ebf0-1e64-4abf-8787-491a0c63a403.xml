@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GWS: DVLA Direct Debit"
+    id="id-3633ebf0-1e64-4abf-8787-491a0c63a403"
+    documentation="Used by ADC DVLA transactions to setup direct debits"/>

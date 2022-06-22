@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FSC"
+    id="id-69ec46d6-27d0-49bf-bdd8-de6b7550f639">
+  <properties
+      key="Contact"
+      value="Boris"/>
+  <properties
+      key="FTE_Count"
+      value="200"/>
+</archimate:BusinessService>

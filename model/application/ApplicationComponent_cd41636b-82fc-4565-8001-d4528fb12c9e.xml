@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Track &amp; Trace Agent"
+    id="cd41636b-82fc-4565-8001-d4528fb12c9e"
+    documentation="Sends Mails Tracking information including delivery address to Royal Mail and Parcelforce"/>

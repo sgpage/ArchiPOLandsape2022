@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDM/Credence External Gateway"
+    id="id-c37dfffa4e4f45669fe095a693adb0f3">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

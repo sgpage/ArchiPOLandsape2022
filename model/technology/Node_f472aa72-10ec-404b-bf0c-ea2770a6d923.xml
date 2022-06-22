@@ -1,0 +1,18 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDP"
+    id="f472aa72-10ec-404b-bf0c-ea2770a6d923"
+    documentation="Common Digital Platform. Accenture’s implementation of a microservice architecture and web content platform.&#xD;&#xA;Common Digital Platform (CDP)">
+  <properties
+      key="Contract Ref"/>
+  <properties
+      key="Criticality"/>
+  <properties
+      key="IPR Owner"/>
+  <properties
+      key="PCI Impacted"/>
+  <properties
+      key="Specification"/>
+  <properties
+      key="Supplier"/>
+</archimate:Node>

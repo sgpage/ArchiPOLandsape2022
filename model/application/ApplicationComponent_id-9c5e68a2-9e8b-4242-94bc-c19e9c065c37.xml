@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Swindon Finances Databases"
+    id="id-9c5e68a2-9e8b-4242-94bc-c19e9c065c37"
+    documentation="These are running the Swindon finance process and supporting inter-business charges with RM and Parcelforce and consist of a number of databases:&#xD;&#xA;&#xD;&#xA;dbMEInvoices.mdb&#xD;&#xA;dbMEItemHistory.mdb&#xD;&#xA;dbMEItemMaster.mdb&#xD;&#xA;dbMEKopOrder.mdb&#xD;&#xA;dbMEDownload2K.mdb&#xD;&#xA;Invoice File.mdb&#xD;&#xA;Main Stock Valuation.mdb.&#xD;&#xA;&#xD;&#xA;Four Galaxy files feed the top four databases and then a number of activities and macros are used with the rest creating excel reports for various people and a balance against Galaxy"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Reconciliation Service [DRS]"
+    id="id-3deba71b-5cf1-4c04-94ae-e569b7796568"
+    documentation="Data Reconciliation Settlement Service. A reconciliation engine that compares the counter generated Network Banking, Debit Card and Electronic Top-Up (ETU) transactions from the Branch Database with the Transaction Processing Service (TPS) view, which is sent to the POL-FS and the Financial Institution view. &#xD;&#xA;&#xD;&#xA;Services that update external clients (e.g. Banking, ePay) have to be reconciled to create a consistent view of the completed transactions. Note that this does not include AP transactions as these are reconciled by the AP client and any discrepancies investigated manually by the FSC.&#xD;&#xA;&#xD;&#xA;For Network Banking transactions the Financial Institution view is presented by the Transaction Enquiry Service (TES), whereas for ETU, a daily ETU file-feed is used while for Debit Card, the FI view is represented by confirmations returned from GlobalPay and from TES."/>

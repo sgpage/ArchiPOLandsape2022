@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APOP Admin Access DB"
+    id="a95e60dc-8d4f-4d12-a32b-fede429ea1ed"
+    documentation="Access DB hosted on laptop that does blah">
+  <properties
+      key="DocRef"
+      value="http://microsoft.com"/>
+</archimate:ApplicationComponent>

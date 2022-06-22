@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: ePay Handler"
+    id="c631b21b-9877-475e-9b3a-e9447584b56d"
+    documentation="Formats eTop-Up requests and passes them to ePay using their API.&#xD;&#xA;&#xD;&#xA;Note that HIH connects directly to the latest ePay API (i.e. not via the BAL), whereas HNGA uses the legacy ePay API."/>

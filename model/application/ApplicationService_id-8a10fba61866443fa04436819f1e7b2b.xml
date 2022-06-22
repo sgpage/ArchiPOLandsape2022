@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure AFTG Appserver Fileshare"
+    id="id-8a10fba61866443fa04436819f1e7b2b"
+    documentation="This is a generic object and represents a number of file share locations. Check PODG routing for specifics."/>

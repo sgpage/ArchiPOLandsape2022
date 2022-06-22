@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS: Operational Data"
+    id="id-3c6f6527-e6af-4d38-b0b1-a04b3872f807"
+    documentation="Provides a means to request operational data from the BAL"/>

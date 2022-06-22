@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connect:Direct Gateway"
+    id="d26bb396-7dc4-4c32-a6ae-f7309b95d173"
+    documentation="Used by PODG to send files to certain 3rd parties, mainly banks:&#xD;&#xA;&#xD;&#xA;IF29.1.007&#x9;Horizon AP Client File BCG to Bank Of Ireland&#x9;Horizon APS&#x9;Bank Of Ireland&#x9;BCG00169.CIF&#xD;&#xA;IF29.1.015&#x9;Horizon AP Client File to Co-op&#x9;Horizon APS&#x9;Co-op&#x9;UF003491.CIF ; UFP01663.CIF&#xD;&#xA;IF29.1.035&#x9;Horizon AP Client File to NCR&#x9;Horizon APS&#x9;NCR&#x9;PAG02432.CIF ; ATM00786.CIF&#xD;&#xA;IF29.1.070&#x9;Horizon AP Client File to Santander&#x9;Horizon APS&#x9;Santander&#x9;ACG02678.CIF&#xD;&#xA;IF29.1.071&#x9;Horizon AP Client File to Santander&#x9;Horizon APS&#x9;Santander&#x9;XD002766.CIF&#xD;&#xA;IF29.1.085&#x9;Horizon AP Client File to Aviva&#x9;Horizon APS&#x9;Aviva&#x9;POL02387.CIF&#xD;&#xA;IF29.1.086&#x9;Horizon AP Client File to Bank Of Ireland&#x9;Horizon APS&#x9;Bank Of Ireland&#x9;POF03570.CIF transformed to POF03570.DFT&#xD;&#xA;IF29.1.087&#x9;Horizon AP Client File to Bank Of Ireland&#x9;Horizon APS&#x9;Bank Of Ireland&#x9;POF03570.CIF&#xD;&#xA;IF29.1.088&#x9;Horizon AP Client File to Bank Of Ireland&#x9;Horizon APS &#x9;Bank Of Ireland&#x9;PLO00620.CIF transformed to ZBBK.HORIZON.GB.FILE&#xD;&#xA;IF29.1.089&#x9;Horizon AP Client File to Bank Of Ireland&#x9;Horizon APS&#x9;Bank Of Ireland&#x9;BCD00108.CIF transformed to ZBBK.HORIZON.BOINI.FILE&#xD;&#xA;IF301&#x9;POLSAP Co-Op encashments to Santander&#x9;POLSAP&#x9;Santander&#x9;COOPnnnn.txt - Co-Op encashments&#xD;&#xA;IF305&#x9;POLSAP A&amp;L summaries to Santander&#x9;POLSAP&#x9;Santander&#x9;PSFAL00nn.EBC renamed by PODG to LRS.FLEAK83.SA00 - A&amp;L summaries">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

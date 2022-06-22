@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Postal Address Lookup PDC"
+    id="d05bb711-9cb2-4c4f-9c10-1d2f2c25a3d4"
+    documentation="This in an application component which provides quick address lookup functions as a backend service residing within the CDP. This address lookup functionality includes retrieval of list of flattened addresses as well individually formatted addresses.&#xD;&#xA;Uses Experian QAS."/>

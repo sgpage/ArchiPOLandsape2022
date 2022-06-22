@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CDP Platform"
+    id="c909ac97-ff5d-49a9-a483-80fff2f686ab"
+    documentation="CDP Platform. Built on cloudfoundary and hosting product deployable components (PDC) to support business applications and integrate with 3rd parties"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway [CDP]"
+    id="fd219280-c70f-40c2-ae5d-20c55ed148a4"
+    documentation="Management of near real-time access into CDP services or from CDP to external services"/>

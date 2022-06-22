@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDM/Credence Internal Data Gateway"
+    id="id-e90b8ffd6a9945c5a5fcb21de4995956">
+  <properties
+      key="Views"
+      value="ATM"/>
+</archimate:ApplicationComponent>

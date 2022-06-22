@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EXT: EON (?) (Talexus)"
+    id="d6e733f5-002d-4437-885b-01d2109fa8e4"
+    documentation="Direct connection to Talexus host that is in the energy suppliers data centre and not in Itrons"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online Service Router [OSR]"
+    id="id-91c4f458-6866-401a-9e03-a464012f8a02"
+    documentation="component of Horizon used to interface to the Horizon Counters (and now the HBS) which is responsible for updating the BRDB where required and also routing messages to other Data Centre services such as the Authorisation Agents.&#xD;&#xA;&#xD;&#xA;20 instances of this run"/>

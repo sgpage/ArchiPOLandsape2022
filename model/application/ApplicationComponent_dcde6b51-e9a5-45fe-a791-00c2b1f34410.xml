@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Business Svcs Subsystem"
+    id="dcde6b51-e9a5-45fe-a791-00c2b1f34410"
+    documentation="The business services subsystem encapsulates the capacity of the application to provide reusable services in support of Business Logic Objects, to encapsulate remote services with local services and to provide location transparency.&#xD;&#xA;Business Services are discrete pieces of functionality that may be used by a Business Logic Object.  Each Business Service may be used concurrently by exactly one Business Logic Object.&#xD;&#xA;A single Business Service Manager provides the capability to instantiate Business Services.  &#xD;&#xA;Business Services may:&#xD;&#xA;•&#x9;Encapsulate functionality to interact with remote services.&#xD;&#xA;•&#x9;Be configurable using reference data.&#xD;&#xA;They will always be exactly one of local or remote.&#xD;&#xA;A remote business service encapsulates a remote service.&#xD;&#xA;Business services may be configurable.  A business service may be implemented in PDL."/>

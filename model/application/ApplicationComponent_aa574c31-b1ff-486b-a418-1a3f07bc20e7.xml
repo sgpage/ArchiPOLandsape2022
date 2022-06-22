@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DXI"
+    id="aa574c31-b1ff-486b-a418-1a3f07bc20e7"
+    documentation="Internet Data Exchange. Handles all outbound traffic to the web, i.e. GWS. Basically config + McAfee Web gateway reverse proxy server."/>

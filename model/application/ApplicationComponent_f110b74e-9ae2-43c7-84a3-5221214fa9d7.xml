@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Management [MDM]"
+    id="f110b74e-9ae2-43c7-84a3-5221214fa9d7"
+    documentation="POLs Master Data Management system used to store and manage all reference data, e.g. branch and product (item) data.&#xD;&#xA;&#xD;&#xA;Built on Kalido MDM 8.5&#xD;&#xA;Hosting - Fujitsu&#xD;&#xA;Application Support - CGI"/>

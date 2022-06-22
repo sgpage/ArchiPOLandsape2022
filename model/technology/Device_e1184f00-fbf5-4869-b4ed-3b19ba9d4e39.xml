@@ -1,0 +1,9 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATM"
+    id="e1184f00-fbf5-4869-b4ed-3b19ba9d4e39"
+    documentation="Automatic Teller Machine providing cash for Link network and Poca in branch netork. Estate is currently managed by BoI but retained machines will be handed over to POl by 03/2020. Current machines run embeeded XP, but new ones being deployed under contract with Cennox will be Windows 10 based.">
+  <properties
+      key="Supplier"
+      value="Cennox"/>
+</archimate:Device>

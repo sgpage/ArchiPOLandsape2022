@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BizX Platform"
+    id="c49b140c-043a-46d7-baf1-f6166861f0cc"
+    documentation="Holds employee profiles which supports an interface middleware between SAP products"/>

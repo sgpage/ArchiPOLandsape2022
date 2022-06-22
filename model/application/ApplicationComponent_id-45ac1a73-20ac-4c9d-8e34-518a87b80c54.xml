@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AEI Clerk PC"
+    id="id-45ac1a73-20ac-4c9d-8e34-518a87b80c54"
+    documentation="Application Enrolment and Identity application.&#xD;&#xA;Supported by Gemalto and operated on a separate terminal device that shares the terminal and keyboard with the POS terminal via KVM switch."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forge Rock (IDAM)"
+    id="fa0e9e09-325f-4c12-a005-47d41361ab83"
+    documentation="Identity Management system being used as part of the solution to provide complaint access to Horizon (EUM project) and HNGT/HSS. Also IDAM for Branch Hub."/>

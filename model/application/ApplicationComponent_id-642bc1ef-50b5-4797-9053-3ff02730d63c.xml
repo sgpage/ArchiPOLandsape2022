@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HNGA: Presentation Subsystem"
+    id="id-642bc1ef-50b5-4797-9053-3ff02730d63c"
+    documentation="The Presentation Subsystem encapsulates capabilities related to communicating with the counter user.  The capabilities raise the level of abstraction from primitive interactions with peripherals (provided by the Peripheral Subsystem), such as setting a pixel on the screen, to primitive interactions with the user, such as the completion of a form. The Presentation Subsystem provides capabilities in support of the Interaction Subsystem which further raises the level to basic interactions between the user and the counter."/>
