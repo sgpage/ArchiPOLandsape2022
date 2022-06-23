@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NBIT High Level"
+    id="id-a278232da9c44ab6bf92f7f2744d80db">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af360f3223fc4292afc471fb637e1f49">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0e55df1e1d9c414485f8c8d65f081e9e"
+        source="id-af360f3223fc4292afc471fb637e1f49"
+        target="id-16617a427480435c8a0909a573d37526">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-27fe521cd2274ea29e14e998c7812b32.xml#id-27fe521cd2274ea29e14e998c7812b32"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="24"
+        width="2365"
+        height="853"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-16617a427480435c8a0909a573d37526"
+        targetConnections="id-0e55df1e1d9c414485f8c8d65f081e9e"
+        type="1">
+      <bounds
+          x="1311"
+          y="494"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-43b4173c6aa944bcbb5137ba50bba7a9.xml#id-43b4173c6aa944bcbb5137ba50bba7a9"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-996776bfa86e4115b4eb9947a728715e.xml#id-996776bfa86e4115b4eb9947a728715e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

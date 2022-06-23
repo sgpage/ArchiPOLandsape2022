@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AIS073"
     id="ad9f25a3-a645-4ea1-9fd5-f695eed6c9e2"
-    documentation="Channel Integration Interface to the RTS service on HBS. Provides ARTS based POS trading over SOAP.">
+    documentation="https://poluk.sharepoint.com/:w:/r/sites/Extranet/Strategy/AR/_layouts/15/Doc.aspx?sourcedoc=%7BDD2F8186-7194-408D-BB33-B28BBE821E35%7D&amp;file=AIS073%20Horizon%20Online%20Channel%20Integration%20Web%20Service%20AIS.doc&amp;action=default&amp;mobileredirect=true&#xD;&#xA;Channel Integration Interface to the RTS service on HBS. Provides ARTS based POS trading over SOAP.">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_a2fa9900-822e-424b-b4a5-0a93778a9724.xml#a2fa9900-822e-424b-b4a5-0a93778a9724"/>

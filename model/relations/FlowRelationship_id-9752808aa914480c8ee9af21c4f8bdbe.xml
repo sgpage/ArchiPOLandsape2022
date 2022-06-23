@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AIS093"
     id="id-9752808aa914480c8ee9af21c4f8bdbe"
-    documentation="Horizon to Credence - transaction data">
+    documentation="https://poluk.sharepoint.com/:w:/r/sites/Extranet/Strategy/AR/_layouts/15/Doc.aspx?sourcedoc=%7BC54CF0FA-9DC2-4C05-BAA8-4EF3638E8910%7D&amp;file=AIS093%20EAIFS006%20Horizon%20to%20POL%20MIS%20AIS.doc&amp;action=default&amp;mobileredirect=true&#xD;&#xA;Horizon to Credence - transaction data.  Transactions are extracted accoring to type (APS, DCS, OTX etc. Not every transaction is sent over this interface with some being excluded by MDM (example is REM products)">
   <properties
       key="Views"
       value="ATM"/>
