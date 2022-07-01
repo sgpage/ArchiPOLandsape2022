@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS Dynamics"
-    id="a52c5911-4890-48ca-884b-191c58cfcb67"
-    documentation="MS Dynamics on prem instance - being depracated in favour of Dynamics 365.">
+    name="Branch Information Tool [BIT]"
+    id="id-31445466dc7347399e421fca30796b9c"
+    documentation="Alex Todds SQL Server tool">
   <properties
       key="DataStorage"
       value="Y"/>
