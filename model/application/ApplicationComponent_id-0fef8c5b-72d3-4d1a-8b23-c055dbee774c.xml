@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Horizon Business Services [HBS]"
     id="id-0fef8c5b-72d3-4d1a-8b23-c055dbee774c"
-    documentation="Horizon Business Services. This provides the ARTS compliant interface with Horizon (including self-service kiosk)&#xD;&#xA;&#xD;&#xA;ARTS: ARTS XML Retail Transaction Interface Technical Specification v1.0 25/12/2007&#xD;&#xA;&#xD;&#xA;The interface is defined in [REQ/APP/AIS/1794]. It can be split into 2 parts:&#xD;&#xA;1.&#x9;Basket/Transaction Services&#xD;&#xA;2.&#x9;Non-Basket/Transaction Services">
+    documentation="https://poluk.sharepoint.com/sites/SolutionDesignDocuments/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSolutionDesignDocuments%2FShared%20Documents%2FHLDs%2FHBS%20%2D%20Horizon%20Business%20Server&amp;p=true&amp;ct=1655977216579&amp;or=OWA%2DNT&amp;cid=913a9ef8%2D6a98%2D8ef3%2D980c%2Da4424983a61b&amp;ga=1&#xD;&#xA;Horizon Business Services. This provides the ARTS compliant interface with Horizon (including self-service kiosk)&#xD;&#xA;&#xD;&#xA;ARTS: ARTS XML Retail Transaction Interface Technical Specification v1.0 25/12/2007&#xD;&#xA;&#xD;&#xA;The interface is defined in [REQ/APP/AIS/1794]. It can be split into 2 parts:&#xD;&#xA;1.&#x9;Basket/Transaction Services&#xD;&#xA;2.&#x9;Non-Basket/Transaction Services&#xD;&#xA;&#xD;&#xA;The server also hosts other services such as link to CDP, British Gas etc">
   <properties
       key="DocRef"/>
 </archimate:ApplicationComponent>
