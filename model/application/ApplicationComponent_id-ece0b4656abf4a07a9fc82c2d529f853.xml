@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NDA"
+    id="id-ece0b4656abf4a07a9fc82c2d529f853"
+    documentation="Network Design and Analysis&#xA;The NDA Team maintain a 7.5TB data store of transactional and other data going back many years.&#xA;Historical Matters Business Unit (HMBU) is a major client of this data."/>
