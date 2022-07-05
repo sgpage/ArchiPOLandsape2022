@@ -96,7 +96,7 @@
     </sourceConnections>
     <bounds
         x="564"
-        y="204"
+        y="269"
         width="276"
         height="103"/>
     <children
@@ -292,8 +292,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7720444331ba4677b5eef4c3ee43312b">
     <bounds
-        x="744"
-        y="120"
+        x="564"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
@@ -323,5 +323,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_e9e94e13-6d0c-479d-8c8e-760ee5d8e45c.xml#e9e94e13-6d0c-479d-8c8e-760ee5d8e45c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c109aeadc7b74c338a2360cf00e330f2">
+    <bounds
+        x="744"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Facility"
+        href="Facility_id-12eaf907-3e26-4c4f-b35c-19f491b35036.xml#id-12eaf907-3e26-4c4f-b35c-19f491b35036"/>
   </children>
 </archimate:ArchimateDiagramModel>
