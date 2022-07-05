@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorin (Payzone)"
+    id="id-cf4ab8ae9c3f47218c450241bf0ad34e"
+    documentation="Transaction/Non-Transactional data store for Payzone"/>
