@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DataBricks POMS Insurance"
     id="id-a4e4b7bac29548ce9421514f130e6c75"
-    documentation="DataBricks instance used by POMS for ML/AI Insurance Pricing"/>
+    documentation="DataBricks instance used by POMS for ML/AI Insurance Pricing">
+  <properties
+      key="DataStorage"
+      value="Y"/>
+</archimate:ApplicationComponent>

@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Branch Database [BRDB]"
     id="a5c33872-5d4b-46f8-a832-b0d4877344b3"
-    documentation="Horizon Branch database. Used by the Horizon application servers to store POS transactions and by many batch processes to post-process the transactions, e.g. for reconciliation, AP client file generation.&#xD;&#xA;&#xD;&#xA;4 node Oracle RAC RDBMS with Oracle Dataguard shipping redo logs to a standby instance in the DR DC.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;https://poluk.sharepoint.com/sites/PostOfficeDocumentLibrary/Shared%20Documents/High%20Level%20Design%20(HLD)/HLD047%20DESAPPHLD0020%20Branch%20Database%20High%20Level%20Design.doc?d=w66f147f9af6e45349c55abd8a0e9993b>"/>
+    documentation="Horizon Branch database. Used by the Horizon application servers to store POS transactions and by many batch processes to post-process the transactions, e.g. for reconciliation, AP client file generation.&#xD;&#xA;&#xD;&#xA;4 node Oracle RAC RDBMS with Oracle Dataguard shipping redo logs to a standby instance in the DR DC.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;https://poluk.sharepoint.com/sites/PostOfficeDocumentLibrary/Shared%20Documents/High%20Level%20Design%20(HLD)/HLD047%20DESAPPHLD0020%20Branch%20Database%20High%20Level%20Design.doc?d=w66f147f9af6e45349c55abd8a0e9993b>">
+  <properties
+      key="DataClass"
+      value="GDPR"/>
+  <properties
+      key="DataClass"
+      value="TXN"/>
+</archimate:ApplicationComponent>
