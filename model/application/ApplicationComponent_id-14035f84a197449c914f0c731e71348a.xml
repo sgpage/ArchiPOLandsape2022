@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS:BAL Gateway"
+    id="id-14035f84a197449c914f0c731e71348a"
+    documentation="Interface object built as part of HiH that exposes interfaces to BAL services.&#xD;&#xA;https://pol-jira.atlassian.net/wiki/spaces/CO/pages/10452075429/BAL+Gateway+-+Architecture"/>

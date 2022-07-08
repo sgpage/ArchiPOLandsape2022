@@ -559,25 +559,22 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-84cad79f-b99d-4b2c-be60-9d2adb43fcc5"
-          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          fontColor="#000000"
-          lineColor="#000000"
+          id="id-9e82a598117e474fb99f036253d105e1"
           source="b1d05393-f37d-404d-a139-077d5dfbf8cb"
           target="a36d4abd-0f3b-432e-8e53-2b9ceabff38f">
         <bendpoints
-            startX="332"
-            startY="22"
-            endX="-567"
-            endY="-110"/>
+            startX="200"
+            startY="30"
+            endX="-699"
+            endY="-102"/>
         <bendpoints
-            startX="332"
-            startY="118"
-            endX="-567"
-            endY="-14"/>
+            startX="200"
+            startY="126"
+            endX="-699"
+            endY="-6"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-6eed64b8-5d73-48cc-8295-4b9e1595ba60.xml#id-6eed64b8-5d73-48cc-8295-4b9e1595ba60"/>
+            href="FlowRelationship_id-6cbc9068-412e-449b-9d68-0b3f759b26f0.xml#id-6cbc9068-412e-449b-9d68-0b3f759b26f0"/>
       </sourceConnections>
       <bounds
           x="47"
@@ -621,7 +618,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="a36d4abd-0f3b-432e-8e53-2b9ceabff38f"
-        targetConnections="id-84cad79f-b99d-4b2c-be60-9d2adb43fcc5 id-21551a67-3989-4adc-8707-942d1de74a32 id-829b8740e4c44017abb2cd1f0783d238"
+        targetConnections="id-21551a67-3989-4adc-8707-942d1de74a32 id-829b8740e4c44017abb2cd1f0783d238 id-9e82a598117e474fb99f036253d105e1"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         fontColor="#000000"
         lineColor="#5c5c5c"

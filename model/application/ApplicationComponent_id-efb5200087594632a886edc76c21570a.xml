@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NBIT:Transaction Store DB"
+    id="id-efb5200087594632a886edc76c21570a"
+    documentation="Consists of lambda API fronting a Dynamo DB store which then pushes by EventBridge to the Transaction Store (S3 buckets using Parquet files)"/>

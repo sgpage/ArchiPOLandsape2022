@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c29aaa869c224de8ae6d3e87f83df820"
+    documentation="Bank Account Checks">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd065787d93d4e2daa7d142daab381b1.xml#id-dd065787d93d4e2daa7d142daab381b1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e5f306bd0bee47e9917d8912ebe0cd70.xml#id-e5f306bd0bee47e9917d8912ebe0cd70"/>
+</archimate:FlowRelationship>
