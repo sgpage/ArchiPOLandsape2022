@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APOP Batch Upates"
+    id="id-8553bb2e31a845b1b9ba81c0b1f8f4b3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-455115cf-72e2-4dec-b4ca-fd9338be905f.xml#id-455115cf-72e2-4dec-b4ca-fd9338be905f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14035f84a197449c914f0c731e71348a.xml#id-14035f84a197449c914f0c731e71348a"/>
+</archimate:FlowRelationship>

@@ -105,7 +105,7 @@
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-5b4df2b5e68c4461b82c6de248a16cf5"
               source="id-c0ee19b103d0444ea8bb4319013ee95e"
-              target="id-495af422809f4fc38084cbe6b0dc3421">
+              target="id-1125900bdf844b97ab9d1ce6a252f068">
             <bendpoints
                 startX="42"
                 startY="453"
@@ -345,7 +345,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-495af422809f4fc38084cbe6b0dc3421"
-            targetConnections="id-8f1fde8335b44f96ab3912a350ea4b49 id-5b4df2b5e68c4461b82c6de248a16cf5"
+            targetConnections="id-8f1fde8335b44f96ab3912a350ea4b49"
             type="1">
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
@@ -612,7 +612,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1125900bdf844b97ab9d1ce6a252f068"
-          targetConnections="id-ddc1cf553eff41ff8b1432eb5a9bb1b3 id-869273858bd9468a925dee4cc128dd80 id-9e66e22981714aae870ec3c90a9de730 id-16c69f4083644f3d85e9108495d6d8c4 id-63666edbbaea44c5b63bed7cbed6c2e3 id-3122132a25044fdb87dec5bfc1dc3b44 id-371bac83fa914b8aafcbec1cf25d407f id-fe58f158df444ae3be0ecc5ee33e0221 id-2b8c69d5d8a9413bbc15979188432317 id-5f24199902d643f4b06896de19292f73 id-b45f5c886d7d4810a11d9e2ff5488328 id-8c63a3000c0d4e9e86f6097985d683d9 id-69c2e4a4fabf4ed399afb67d83447532 id-896fda708e394766b056afeab8625312 id-024568f97186406ca72cfdc6dfc11b43 id-794e0306c8444f48be51a93ba505b2c8"
+          targetConnections="id-ddc1cf553eff41ff8b1432eb5a9bb1b3 id-869273858bd9468a925dee4cc128dd80 id-9e66e22981714aae870ec3c90a9de730 id-16c69f4083644f3d85e9108495d6d8c4 id-63666edbbaea44c5b63bed7cbed6c2e3 id-3122132a25044fdb87dec5bfc1dc3b44 id-371bac83fa914b8aafcbec1cf25d407f id-fe58f158df444ae3be0ecc5ee33e0221 id-2b8c69d5d8a9413bbc15979188432317 id-5f24199902d643f4b06896de19292f73 id-b45f5c886d7d4810a11d9e2ff5488328 id-8c63a3000c0d4e9e86f6097985d683d9 id-896fda708e394766b056afeab8625312 id-024568f97186406ca72cfdc6dfc11b43 id-794e0306c8444f48be51a93ba505b2c8 id-5b4df2b5e68c4461b82c6de248a16cf5 id-69c2e4a4fabf4ed399afb67d83447532"
           type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"

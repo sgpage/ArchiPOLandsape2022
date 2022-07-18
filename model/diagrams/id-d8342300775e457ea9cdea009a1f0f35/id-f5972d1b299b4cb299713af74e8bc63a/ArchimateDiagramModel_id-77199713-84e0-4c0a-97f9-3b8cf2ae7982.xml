@@ -422,37 +422,11 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#c9e7b7">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-69741ec1f34b4cf8a52c394f73b622ad"
-          source="id-5082f63b-24c9-434b-a3e0-506c8c91f241"
-          target="id-35b8b0ce-5f59-4e91-b889-3dd12be21147">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-29729ecb-fe23-406c-9aa1-48e869d28164.xml#id-29729ecb-fe23-406c-9aa1-48e869d28164"/>
-      </sourceConnections>
       <bounds
           x="240"
           y="468"
           width="217"
           height="157"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-35b8b0ce-5f59-4e91-b889-3dd12be21147"
-          targetConnections="id-69741ec1f34b4cf8a52c394f73b622ad"
-          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          fontColor="#000000"
-          lineColor="#5c5c5c"
-          fillColor="#c9e7b7">
-        <bounds
-            x="24"
-            y="72"
-            width="120"
-            height="73"/>
-        <archimateElement
-            xsi:type="archimate:Material"
-            href="Material_f222454b-319f-42c2-9a9c-0585678cceb6.xml#f222454b-319f-42c2-9a9c-0585678cceb6"/>
-      </children>
       <archimateElement
           xsi:type="archimate:Equipment"
           href="Equipment_id-5ccc07de-d07c-4f0e-8a1b-bcd51639dd8c.xml#id-5ccc07de-d07c-4f0e-8a1b-bcd51639dd8c"/>

@@ -7016,23 +7016,6 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_a8876a55-e5c7-4bb4-aab1-d964dd87e7b5.xml#a8876a55-e5c7-4bb4-aab1-d964dd87e7b5"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="eb7e52a3-fd8a-4204-ad7a-5f4bb1b6ae80"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff"
-        type="1">
-      <bounds
-          x="145"
-          y="26"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-98596689-6811-4abf-a874-719220c2d3f8.xml#id-98596689-6811-4abf-a874-719220c2d3f8"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"

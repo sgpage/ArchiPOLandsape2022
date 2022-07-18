@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NBIT Transaction Engine (copy)"
-    id="id-c3f51ac9df7745aaaf6027350366afa7"
-    documentation="https://pol-jira.atlassian.net/wiki/spaces/SPM/pages/10367533341/NBIT+Transaction+Engine+-+Solution+Design&#xD;&#xA;&#xD;&#xA;API to create transactions in NBIT&#xD;&#xA;Database to records transactions&#xD;&#xA;Backend Integration of NBIT with CFS and Credence system &#xD;&#xA;Publishing Transaction Events with NBIT for other subsystems of NBIT ( eg cash and store management, RM, AP Clients)&#xD;&#xA;Transaction store - Transactions data streamed to S3 bucket for integrations"/>
