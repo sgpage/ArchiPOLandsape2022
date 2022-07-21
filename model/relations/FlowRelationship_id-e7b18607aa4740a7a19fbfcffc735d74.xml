@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BAL Gateway Requests (SOAP)"
+    id="id-e7b18607aa4740a7a19fbfcffc735d74"
+    documentation="HTTPS XML/SOAP Calls to and from Horizon BAL">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14035f84a197449c914f0c731e71348a.xml#id-14035f84a197449c914f0c731e71348a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_f11d2ad3-e097-440e-b88e-9be89d525edb.xml#f11d2ad3-e097-440e-b88e-9be89d525edb"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS:BKAC Agent"
+    id="id-6907cd90ecee4a5cb351e4d1ac27e14a"
+    documentation="Bank Account Lookup Service - interfacing to Postcode Anywhere"/>

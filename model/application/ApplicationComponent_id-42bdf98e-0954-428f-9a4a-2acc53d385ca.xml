@@ -6,4 +6,7 @@
   <properties
       key="Views"
       value="ATM"/>
+  <properties
+      key="DataClass"
+      value="TXN"/>
 </archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS:APOP WebServer Agent"
+    id="id-05df0766cf5940c1b7a9e53df37b6ad7"
+    documentation="Webserver agent that interfaces to the Oracle APOP DB using JDBC and counter and batch interfaces via XML. This will replace the Webserver agent currently hosted in Belfast.&#xD;&#xA;&#xD;&#xA;https://pol-jira.atlassian.net/wiki/spaces/CO/pages/10526785852/APOP+-+Application+Modernization#3.2.-High-Level-Overview"/>

@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="System Center Configuration Manager [SCCM]"
+    name="Symantec Center Configuration Manager [SCCM]"
     id="id-72428549-461f-44d1-b9f3-b5003efd0d37"
     documentation="System Center Configuration Manager. Used in the CC solution to update, patch and distribute software to EUC devices and servers."/>
