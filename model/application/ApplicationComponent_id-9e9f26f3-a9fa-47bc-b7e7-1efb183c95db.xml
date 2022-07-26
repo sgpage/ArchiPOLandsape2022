@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Freedom Of Information [FOI]"
+    name="Freedom Of Information [FOI] / eCase"
     id="id-9e9f26f3-a9fa-47bc-b7e7-1efb183c95db"
     documentation="Part of the system where general public can record their request for information regarding Post Office. Members of the public can access the form on the Post Office corporate web site.&#xD;&#xA;&#xD;&#xA;That web page is to be hosted in the Transitional Data Centre and integrated into an appropriate page in the Corporate web site.&#xD;&#xA;Internally that web form’s content will be passed to the MS Dynamics CRM based Case Management and Workflow Management system customised for the FOI purposes.&#xD;&#xA;&#xD;&#xA;Developed on MS Dynamics CRM/xRM."/>
