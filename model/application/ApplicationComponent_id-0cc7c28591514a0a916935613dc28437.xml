@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mimecast"
+    name="Mimecast / Lotus Notes"
     id="id-0cc7c28591514a0a916935613dc28437"
-    documentation="cloud-based email management for Microsoft Exchange and Microsoft Office 365, including security, archiving, and continuity services to protect business mail"/>
+    documentation="cloud-based email management for Microsoft Exchange and Microsoft Office 365, including security, archiving, and continuity services to protect business mail&#xA;&#xA;Prior to Post Office Limited's (&quot;POL&quot;) separation from the Royal Mail Group (&quot;RMG&quot;) (the &quot;Separation&quot;) in 2012, POL's email servers were hosted on Lotus Notes. Following the Separation in 2012, POL began to use Microsoft Exchange instead.&#xA;&#xA;Between 2012 and 2016, POL used the email archiving system, &quot;Proofpoint&quot;. Since the beginning of 2016, POL has used &quot;Mimecast&quot; for this function.&#xA;&#xA;The email data in POL's possession is limited; and there are practical challenges associated with searching for and exporting email data from Mimecast. &#xA;"/>

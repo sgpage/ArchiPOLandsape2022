@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web3 / Bravo"
+    id="id-1d5cb6cc3e294b01b92da31b57f62df6"
+    documentation="Contracts Management&#xA;&#xA;From October 2019, POL introduced a web-based e-Procurement platform for its employees to manage and store their contracts.&#xA;&#xA;Prior to October 2019, third-party contracts were expected to be uploaded to a system provided by BravoSolution UK Limited.&#xA;&#xA;&#xA;"/>
