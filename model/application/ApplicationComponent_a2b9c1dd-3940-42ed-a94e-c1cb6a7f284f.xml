@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transaction Processing Service [TPS]"
+    name="DEAD: Transaction Processing Service [TPS]"
     id="a2b9c1dd-3940-42ed-a94e-c1cb6a7f284f"
     documentation="Transaction Processing Service (TPS) processes all transactions that occurred at the outlets or branch offices owned by Post Office Limited. &#xD;&#xA;&#xD;&#xA;TPS provides the interface to various systems owned by Post Office Limited and others. &#xD;&#xA;It interfaces to the Branch Database to receive the transactions and transfers the details in various forms, including summaries and reports as flat files.&#xD;&#xA;&#xA;Being deprecated under Bexit"/>

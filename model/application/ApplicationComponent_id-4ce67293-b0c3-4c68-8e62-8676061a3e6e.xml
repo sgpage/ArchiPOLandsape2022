@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS: Allpay Smart Prepay Handler"
+    name="DEAD: MS: Allpay Smart Prepay Handler"
     id="id-4ce67293-b0c3-4c68-8e62-8676061a3e6e"
     documentation="Formats Smart Prepay API requests and passes them to Allpay using their API. Used for SSE and Greenstar"/>

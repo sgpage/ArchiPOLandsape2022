@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AEI Agent"
+    name="DEAD: AEI Agent"
     id="c6367a4a-7d60-4097-9734-a8d9ed3a05aa"
     documentation="IF14 Bill payment transaction delivered to Cogent in near real time to allow the AEI transaction to be released."/>

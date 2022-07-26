@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ParcelShop: Merchant Server"
+    name="DEAD: ParcelShop: Merchant Server"
     id="e2487ef8-6085-4620-96f5-bdb451dd87f9"
     documentation="nodeJS application providing routing to CMS and proxy for HiH"/>

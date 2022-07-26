@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ingenico PIN Pad Data Prep Too (IPPPT)"
+    name="DEAD: Ingenico PIN Pad Data Prep Too (IPPPT)"
     id="id-7377b837-dced-4adb-9e48-13170a2d7ce5"
     documentation="POL deliver changes to PIN Pad Reference Data to SSC in document form as defined in Post Office Ltd to Fujitsu Services EMV Retail PIN Pad Reference Data Interface Specification (RD/IFS/037) and Post Office Ltd to Fujitsu Services EMV Banking PIN Pad Reference Data Interface Specification (RD/IFS/038). SSC enter the data into the Ingenico PIN Pad Preparation Tool. &#xD;&#xA;The reference data output Type F files are delivered in HNG-X Specific Reference Data to RDMC Application Interface Specification format (DES/APP/IFS/0004). Each file is for a specific business change."/>

@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SIA gateway"
+    name="DEAD: SIA gateway"
     id="id-61c0fc82-bc87-451e-8a33-0a588502d95f"
     documentation="Gateway to secure 3rd party identity services"/>
