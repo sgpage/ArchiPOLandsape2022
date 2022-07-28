@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SCO App"
+    name="SSK: SCO Client App"
     id="a2fa9900-822e-424b-b4a5-0a93778a9724"
     documentation="Self Check Out application provided by NCR that has been customised to interface to HBS and provide mails, bill pay and retail transactions."/>
