@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quick Checker Project Severn"
-    id="dc73f6bb-de8b-4685-8761-7230a53890c6"/>
+    id="dc73f6bb-de8b-4685-8761-7230a53890c6"
+    documentation="check with Yogi?"/>
