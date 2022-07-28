@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS: Basket"
+    name="DEAD: MS: Basket"
     id="id-08bfa56c-b42f-4167-8357-4fcb87bb2946"
     documentation="Provide means to maintain and access basket information to internal and external consumers&#xD;&#xA;&#xD;&#xA;Responsible to managing the creation of new baskets and the updating of existing baskets&#xD;&#xA;each product in the basket is represented by a SaleItem object, which holds the information about this transaction in the basket, including:&#xD;&#xA;productId (linking to the product in the Product Catalogue)&#xD;&#xA;&#x9;quantity sold&#xD;&#xA;&#x9;price&#xD;&#xA;&#x9;vat rate"/>

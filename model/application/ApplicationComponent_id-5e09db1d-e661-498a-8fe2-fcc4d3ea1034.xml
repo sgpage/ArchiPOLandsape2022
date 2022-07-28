@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS: BAL Interface"
+    name="DEAD: MS: BAL Interface"
     id="id-5e09db1d-e661-498a-8fe2-fcc4d3ea1034"
     documentation="Interface to the Horizon system via the Horizon BAL in order to make use of BAL services. At the current release, the available services are.&#xD;&#xA;&#xD;&#xA;Responsible for:&#xD;&#xA;&#x9;logging into and out of the BAL, and extraction of necessary control values e.g. last used SSN, JSN etc&#xD;&#xA;&#x9;formatting settlement messages to be passed to the BAL (accounting lines etc)&#xD;&#xA;&#x9;passing of settlement messages to BAL and handling of responses&#xD;&#xA;&#x9;formatting and passing of any third-party calls that may be required to be passed by the BAL"/>

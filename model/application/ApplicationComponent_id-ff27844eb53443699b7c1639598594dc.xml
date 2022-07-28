@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iMap"
+    id="id-ff27844eb53443699b7c1639598594dc"
+    documentation="A database containing branch information used by POL's Network Design and Analysis team."/>

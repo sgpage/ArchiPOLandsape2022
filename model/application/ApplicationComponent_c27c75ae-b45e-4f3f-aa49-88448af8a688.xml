@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MS: APOP Handler"
+    name="DEAD: MS: APOP Handler"
     id="c27c75ae-b45e-4f3f-aa49-88448af8a688"
     documentation="Formats Payout requests for passing to APOP via the BAL"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OneTrust"
-    id="id-539a8cd8-dabf-4c75-baf0-f7a8a0a42bbe"/>
+    id="id-539a8cd8-dabf-4c75-baf0-f7a8a0a42bbe"
+    documentation="In use by the Data Protection Team"/>
