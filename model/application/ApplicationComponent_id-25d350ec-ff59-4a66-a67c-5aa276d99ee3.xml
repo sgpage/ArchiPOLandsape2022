@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="POCA Card Issue (PCAI)"
-    id="id-25d350ec-ff59-4a66-a67c-5aa276d99ee3"/>
+    id="id-25d350ec-ff59-4a66-a67c-5aa276d99ee3"
+    documentation="gone in Sep 2022"/>

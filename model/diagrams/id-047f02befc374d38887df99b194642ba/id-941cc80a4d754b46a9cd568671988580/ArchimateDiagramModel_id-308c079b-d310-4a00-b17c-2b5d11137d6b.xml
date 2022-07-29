@@ -7050,23 +7050,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-518e2312-a83a-44a0-ace7-8bbbcdc3bc51"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff"
-        type="1">
-      <bounds
-          x="11"
-          y="84"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_c03f24ed-5379-40e6-b2e5-cb4bd93960ec.xml#c03f24ed-5379-40e6-b2e5-cb4bd93960ec"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="a8c8e6f7-d81b-478d-8cc5-afeac5bf3b70"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         fontColor="#000000"
@@ -7081,40 +7064,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-93e12f5d-a12b-4b69-9120-33903335b746.xml#id-93e12f5d-a12b-4b69-9120-33903335b746"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="df2c02a6-774c-4c38-bdfe-ecff6d4bbecb"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff"
-        type="1">
-      <bounds
-          x="144"
-          y="24"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_caef4e83-cc67-417f-856d-0b1d4b5f5bc7.xml#caef4e83-cc67-417f-856d-0b1d4b5f5bc7"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-045c2f97-2dbd-4ba1-8920-f848cefbbc84"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff"
-        type="1">
-      <bounds
-          x="144"
-          y="144"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-3f717046-84eb-4594-bb08-635a6f24c31a.xml#id-3f717046-84eb-4594-bb08-635a6f24c31a"/>
     </children>
   </children>
   <children
