@@ -1,7 +1,9 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="c6a9b022-d2f5-4b16-8103-365b5ca74c4c">
+    name="EMIS file"
+    id="c6a9b022-d2f5-4b16-8103-365b5ca74c4c"
+    documentation="Reconciliation files sent via Connect Direct to DRS">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-28ce18ad-c834-43e5-a358-ef9c9af54079.xml#id-28ce18ad-c834-43e5-a358-ef9c9af54079"/>

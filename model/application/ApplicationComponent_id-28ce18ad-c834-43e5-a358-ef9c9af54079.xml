@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EXT :GlobalPay"
-    id="id-28ce18ad-c834-43e5-a358-ef9c9af54079"/>
+    name="EXT :Worldline Merchant Aquirer"
+    id="id-28ce18ad-c834-43e5-a358-ef9c9af54079"
+    documentation="Previously GlobalPay Merchant Aquirer"/>
