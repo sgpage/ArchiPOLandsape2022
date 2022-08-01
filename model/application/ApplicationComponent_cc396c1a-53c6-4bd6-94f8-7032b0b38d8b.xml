@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SAR: Failure Processor Worker"
-    id="cc396c1a-53c6-4bd6-94f8-7032b0b38d8b"/>
+    name="DEAD: SAR: Failure Processor Worker"
+    id="cc396c1a-53c6-4bd6-94f8-7032b0b38d8b"
+    documentation="These services were decommissioned early 2022"/>

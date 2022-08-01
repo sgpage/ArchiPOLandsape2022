@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SAR: Temporary Vault"
-    id="id-4a464921-351a-4244-b4b2-0b9434051050"/>
+    name="DEAD: SAR: Temporary Vault"
+    id="id-4a464921-351a-4244-b4b2-0b9434051050"
+    documentation="These services were decommissioned early 2022"/>
