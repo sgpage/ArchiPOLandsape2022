@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verizon MSEG-5"
+    name="DEAD: Verizon MSEG-5"
     id="id-9fee005e-859c-4669-925c-ea3ba726707c"
-    documentation="Managed Secure Enterprise Gateway.&#xD;&#xA;&#xD;&#xA;Verizon’s product for their managed firewall services. This is an integrated, dedicated, and fully managed solution that helps secure private network through a suite of modular services.&#xD;&#xA;The core of this service is hosted on Palo-Alto’s next generation firewall appliances"/>
+    documentation="Managed Secure Enterprise Gateway.&#xD;&#xA;&#xD;&#xA;Verizon’s product for their managed firewall services. This is an integrated, dedicated, and fully managed solution that helps secure private network through a suite of modular services.&#xD;&#xA;The core of this service is hosted on Palo-Alto’s next generation firewall appliances&#xA;&#xA;&#xA;The Verizon MSEG-4 and MSEG-5 have been replaced by the CNSP service at the Equinix LD5 and LD8 data centres delivered under the Core Network 2.0."/>
