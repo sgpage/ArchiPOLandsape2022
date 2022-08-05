@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPS Client File"
+    id="id-1b3f452e3ef1458eb81acb05c0099521">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-886aa04a-2f73-401c-9a93-a0e3b6111e8f.xml#id-886aa04a-2f73-401c-9a93-a0e3b6111e8f"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-166d07e39dff4910b0e93848cefe89f0.xml#id-166d07e39dff4910b0e93848cefe89f0"/>
+</archimate:FlowRelationship>
