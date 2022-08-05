@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verizon Defend-4"
+    name="DEAD: Verizon Defend-4"
     id="id-6288eb47-23e6-4305-b8c6-078da19dbff6"
-    documentation="Verizon DDoS protection solution provided as a service. Used to protect CDP from DDoS attacks."/>
+    documentation="Verizon DDoS protection solution provided as a service. Used to protect CDP from DDoS attacks.&#xA;&#xA;Version Defend-4 and Defend-5 are dead because all the core network services have already been decommissioned from UK5 and UK4 data centres."/>
