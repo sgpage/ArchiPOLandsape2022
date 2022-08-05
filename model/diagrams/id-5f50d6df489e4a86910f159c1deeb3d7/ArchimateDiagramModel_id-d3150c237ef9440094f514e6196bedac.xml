@@ -49,7 +49,7 @@
       type="1">
     <bounds
         x="756"
-        y="348"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -3292,5 +3292,17 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-b3b59027ec4b4387a56bc35879d6b083.xml#id-b3b59027ec4b4387a56bc35879d6b083"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-efecc463807f4f2ebcf233835870f50b">
+    <bounds
+        x="564"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-fac36f033680454c95e8305f30ee578a.xml#id-fac36f033680454c95e8305f30ee578a"/>
   </children>
 </archimate:ArchimateDiagramModel>
