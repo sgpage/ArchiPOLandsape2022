@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="migration"
+    id="id-291357ad0e214dd4badd97125d625999"
+    documentation="long term plan is to stop using Omnidocs and migrate everything through to RelativityOne">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-369cebe825854d879a8c6f4b76d45f23.xml#id-369cebe825854d879a8c6f4b76d45f23"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-db5c86f3e29f46ffa0346dce784d7d1f.xml#id-db5c86f3e29f46ffa0346dce784d7d1f"/>
+</archimate:FlowRelationship>
